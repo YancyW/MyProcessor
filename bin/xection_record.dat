@@ -1,0 +1,372 @@
+root_file_10:
+    nh_{10}^{10}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/nh_10_eL.pR.root  :  79.026852 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/nh_10_eR.pL.root  :  50.415099 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_10/2f_z_bha_eR.pR.root  :  25128.282 
+root_file_30:
+    nh_{30}^{30}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/nh_30_eL.pR.root  :  56.503046 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/nh_30_eR.pL.root  :  35.848167 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_30/2f_z_bha_eR.pR.root  :  25128.282 
+root_file_50:
+    nh_{50}^{50}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/nh_50_eL.pR.root  :  46.423539 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/nh_50_eR.pL.root  :  29.688911 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_50/2f_z_bha_eR.pR.root  :  25128.282 
+root_file_70:
+    nh_{70}^{70}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/nh_70_eL.pR.root  :  38.643644 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/nh_70_eR.pL.root  :  24.685325 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_70/2f_z_bha_eR.pR.root  :  25128.282 
+root_file_90:
+    nh_{90}^{90}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/nh_90_eL.pR.root  :  30.982209 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/nh_90_eR.pL.root  :  19.845094 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_90/2f_z_bha_eR.pR.root  :  25128.282 
+root_file_115:
+    nh_{115}^{115}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/nh_115_eL.pR.root  :  21.27612 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/nh_115_eR.pL.root  :  13.544666 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{sw}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_l_eL.pR.root  :  3334.6576 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_l_eR.pL.root  :  29.09778 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_l_eL.pL.root  :  39.949886 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_l_eR.pR.root  :  39.915123 
+    4f_{sw}^{sl}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_sl_eL.pR.root  :  9999.5172 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_sl_eR.pL.root  :  85.616028 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_sl_eL.pL.root  :  119.68261 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/4f_sw_sl_eR.pR.root  :  119.28943 
+    2f_{z}^{l}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_l_eL.pR.root  :  21226.352 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_l_eR.pL.root  :  16470.018 
+    2f_{z}^{bha}:
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_bha_eL.pR.root  :  25286.933 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_bha_eR.pL.root  :  24228.041 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_bha_eL.pL.root  :  25108.525 
+        /afs/desy.de/user/y/ywang/Code/MyTest2/bin/../results_115/2f_z_bha_eR.pR.root  :  25128.282 
