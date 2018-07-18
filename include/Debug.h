@@ -16,11 +16,11 @@ class CDebug{
 		std::vector<Bool_t> debug;
 		void Read_Debug(){
 			ShowMessage(3, "read debug");
-			this->mode= true;
+			this->mode= false;
 			this->num_debug_mode=1000;
 			this->level=5;
 			this->debug.resize(this->num_debug_mode);
-			this->debug[1] =false;
+			this->debug[1] =true;
 			this->debug[2] =false;
 			this->debug[11]=false;
 			this->debug[12]=false;
@@ -38,10 +38,12 @@ class CDebug{
 			this->debug[42]=false;
 			this->debug[50]=false;
 			this->debug[51]= true;
-			this->debug[900] =false;
-			this->debug[901] =false;
-			this->debug[902] =false;
-			this->debug[903] = true;
+			this->debug[52]= true;
+			this->debug[53]=false;
+			this->debug[900] = true;
+			this->debug[901] = true;
+			this->debug[902] = true;
+			this->debug[903] =false;
 			//= YAML::LoadFile("./control/debug.dat");
 
 			//RW_element("Debug_mode"                 ,debug_node,this->mode );

@@ -1,0 +1,182 @@
+<marlin>
+	<execute>
+		<processor name="MyAdd4MomCovMatrixCharged"/>
+		<processor name="MyIsolatedLeptonTaggingProcessor"/>
+		<processor name="MyMCPhotonFinderProcessor"/>
+		<processor name="MyPandoraIsolatedPhotonFinderProcessor"/>
+		<processor name="MyHiggsProcessor"/>
+	</execute>
+
+	<global>
+		<parameter name="LCIOInputFiles">
+ /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00001-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00002-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00003-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00004-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00005-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00006-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00007-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00008-DST.slcio /pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00009-DST.slcio
+		</parameter>
+		<parameter name="GearXMLFile"> GearOutput.xml </parameter> 
+		<parameter name="MaxRecordNumber" value="0" />  
+		<parameter name="SkipNEvents" value="0" />  
+		<parameter name="SupressCheck" value="false" />  
+		<parameter name="Verbosity" options="DEBUG0-4,MESSAGE0-4,WARNING0-4,ERROR0-4,SILENT">WARNING</parameter>
+		<parameter name="AllowToModifyEvent" value="true" />
+	</global>
+
+
+	<processor name="MyAdd4MomCovMatrixCharged" type="Add4MomCovMatrixCharged">
+		<parameter name="InputPandoraPFOsCollection" type="string"> PandoraPFOs </parameter>
+		<parameter name="Verbosity" options="DEBUG0-4,MESSAGE0-4,WARNING0-4,ERROR0-4,SILENT"> MESSAGE </parameter>
+	</processor>
+
+	<processor name="MyThrustReconstruction" type="ThrustReconstruction">
+		<parameter name="Verbosity"> SILENT </parameter>
+		<parameter name="inputCollectionName" type="string" lcioInType="ReconstructedParticle"> PandoraPFOs </parameter>
+		<parameter name="typeOfThrustFinder" type="int">2 </parameter>
+	</processor>
+
+	<processor name="MyIsolatedLeptonTaggingProcessor" type="IsolatedLeptonTaggingProcessor">
+		<parameter name="CosConeLarge" type="float">0.95 </parameter>
+		<parameter name="CosConeSmall" type="float">0.98 </parameter>
+		<parameter name="CutOnTheISOElectronMVA" type="float"> 0.5 </parameter>
+		<parameter name="CutOnTheISOMuonMVA" type="float">0.7 </parameter>
+		<parameter name="DirOfISOElectronWeights" type="string"> /afs/desy.de/project/ilcsoft/sw/x86_64_gcc48_sl6/v01-17-09/MarlinReco/v01-14/Analysis/IsolatedLeptonTagging/example/isolated_electron_weights </parameter>
+		<parameter name="DirOfISOMuonWeights" type="string"> /afs/desy.de/project/ilcsoft/sw/x86_64_gcc48_sl6/v01-17-09/MarlinReco/v01-14/Analysis/IsolatedLeptonTagging/example/isolated_muon_weights </parameter>
+		<parameter name="InputPandoraPFOsCollection" type="string" lcioInType="ReconstructedParticle"> PandoraPFOs </parameter>
+		<parameter name="IsSelectingOneIsoLep" type="bool"> false </parameter>
+		<parameter name="MinPForElectron" type="float">5 </parameter>
+		<parameter name="MinPForMuon" type="float">5 </parameter>
+		<parameter name="MinEOverPForElectron" type="float">0.5 </parameter>
+		<parameter name="MaxEOverPForElectron" type="float">1.3 </parameter>
+		<parameter name="MaxEOverPForMuon" type="float">0.3 </parameter>
+		<parameter name="MinEecalOverTotEForElectron" type="float">0.9 </parameter>
+		<parameter name="MinEyokeForMuon" type="float">1.2 </parameter>
+		<parameter name="MaxD0SigForElectron" type="float">50 </parameter>
+		<parameter name="MaxD0SigForMuon" type="float">5 </parameter>
+		<parameter name="MaxZ0SigForElectron" type="float">5 </parameter>
+		<parameter name="MaxZ0SigForMuon" type="float">5 </parameter>
+		<parameter name="OutputIsoLeptonsCollection" type="string" lcioOutType="ReconstructedParticle"> Isoleps </parameter>
+		<parameter name="OutputPFOsWithoutIsoLepCollection" type="string" lcioOutType="ReconstructedParticle"> PFOsWithoutIsoleps </parameter>
+		<parameter name="Verbosity" type="string"> SILENT </parameter>
+	</processor>
+
+	<processor name="MyMCPhotonFinderProcessor" type="MCPhotonFinderX">
+		<!--Isolated Lepton Finder Processor-->
+
+		<!--Input collection of ReconstructedParticles-->
+		<parameter name="InputCollection" type="string" lcioInType="MCParticles">MCParticlesSkimmed </parameter>
+		<!--Output collection of isolated photon-->
+		<parameter name="OutputCollectionIsolatedPhotons" type="string" lcioOutType="MCParticle">MCsPhoton </parameter>
+		<!--Output collection of isolated photon in the forward region-->
+		<parameter name="OutputCollectionIsolatedForwardPhotons" type="string" lcioOutType="MCParticle">MCsForwardPhoton </parameter>
+		<!--Copy of input collection but without the isolated photon-->
+		<parameter name="OutputCollectionWithoutIsolatedPhoton" type="string" lcioOutType="MCParticle">MCsWithoutIsoPhoton</parameter>
+
+		<!---------------------------->
+		<!-- Isolation requirements -->
+		<!---------------------------->
+
+		<!--Use energy cuts-->
+		<parameter name="UseEnergy" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalEnergyCut" type="float">0 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalEnergyCut" type="float">-1 </parameter>
+
+		<!--Use polar angle cuts-->
+		<parameter name="UsePolarAngle" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalPolarAngle" type="float">0.0 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalPollarAngle" type="float">0.95 </parameter>
+
+
+		<!--Use energy cuts in forward region-->
+		<parameter name="UseForwardEnergy" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalForwardEnergyCut" type="float">0 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalForwardEnergyCut" type="float">-1 </parameter>
+
+		<!--Use polar angle cuts in forward region-->
+		<parameter name="UseForwardPolarAngle" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalForwardPolarAngle" type="float">0.95 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalForwardPollarAngle" type="float">1.0 </parameter>
+
+
+		<!--Use Isolation Cone-->
+		<parameter name="UseIsolationCone" type="bool">false</parameter>
+		<!--Maximum cos cone angle size-->
+		<parameter name="MaximalCosConeAngle" type="float">0.95 </parameter>
+		<!--photon energy over cone energy ratio should larger than this value-->
+		<parameter name="ConeEnergyRatio" type="float">0.95</parameter>
+	</processor>
+
+	<processor name="MyPandoraIsolatedPhotonFinderProcessor" type="PandoraIsolatedPhotonFinder">
+		<!--Isolated Lepton Finder Processor-->
+
+		<!--Input collection of ReconstructedParticles-->
+		<parameter name="InputCollection" type="string" lcioInType="ReconstructedParticle">PandoraPFOs </parameter>
+		<!--Output collection of isolated photon-->
+		<parameter name="OutputCollectionIsolatedPhotons" type="string" lcioOutType="ReconstructedParticle">PandoraIsoPhoton </parameter>
+		<!--Output collection of isolated photon in the forward region-->
+		<parameter name="OutputCollectionIsolatedForwardPhotons" type="string" lcioOutType="ReconstructedParticle">PandoraIsoForwardPhoton </parameter>
+		<!--Copy of input collection but without the isolated photon-->
+		<parameter name="OutputCollectionWithoutIsolatedPhoton" type="string" lcioOutType="ReconstructedParticle">PandoraPFOsWithoutIsoPhoton</parameter>
+
+		<!---------------------------->
+		<!-- Isolation requirements -->
+		<!---------------------------->
+
+		<!--Use energy cuts-->
+		<parameter name="UseEnergy" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalEnergyCut" type="float">10 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalEnergyCut" type="float">-1 </parameter>
+
+		<!--Use polar angle cuts-->
+		<parameter name="UsePolarAngle" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalPolarAngle" type="float">0.0 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalPollarAngle" type="float">0.95 </parameter>
+
+
+		<!--Use energy cuts in forward region-->
+		<parameter name="UseForwardEnergy" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalForwardEnergyCut" type="float">3 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalForwardEnergyCut" type="float">-1 </parameter>
+
+		<!--Use polar angle cuts in forward region-->
+		<parameter name="UseForwardPolarAngle" type="bool">true </parameter>
+		<!--Minimum energy cut for isolation requirement-->
+		<parameter name="MinimalForwardPolarAngle" type="float">0.95 </parameter>
+		<!--Maximum energy cut for isolation requirement-->
+		<parameter name="MaximalForwardPollarAngle" type="float">1.0  </parameter>
+
+
+		<!--Use Isolation Cone-->
+		<parameter name="UseIsolationCone" type="bool">true</parameter>
+		<!--Maximum cos cone angle size-->
+		<parameter name="MaximalCosConeAngle" type="float">0.90 </parameter>
+		<!--photon energy over cone energy ratio should larger than this value-->
+		<parameter name="ConeEnergyRatio" type="float">0.95</parameter>
+	</processor>
+
+	<processor name="MyHiggsProcessor" type="MyProcessor">
+		<parameter name="InputAllPFOsCollection" type="string" lcioInType="ReconstructedParticle"> PandoraPFOs </parameter>
+		<parameter name="InputIsolepsCollection" type="string" lcioInType="ReconstructedParticle"> Isoleps </parameter>
+		<parameter name="InputPFOsWithoutIsolepsCollection" type="string" lcioInType="ReconstructedParticle"> PFOsWithoutIsoleps </parameter>
+		<parameter name="InputMCIsoPhotonCollection" type="string" lcioInType="MCParticle">            MCsPhoton </parameter>
+		<parameter name="InputMCIsoForwardPhotonCollection" type="string" lcioInType="MCParticle">     MCsForwardPhoton </parameter>
+		<parameter name="InputMCPFOsWithoutIsoPhotonCollection" type="string" lcioInType="MCParticle"> MCsWithoutIsoPhoton</parameter>
+		<parameter name="InputPandoraIsoPhotonCollection" type="string" lcioInType="ReconstructedParticle"> PandoraIsoPhoton </parameter>
+		<parameter name="InputPandoraIsoForwardPhotonCollection" type="string" lcioInType="ReconstructedParticle"> PandoraIsoForwardPhoton </parameter>
+		<parameter name="InputPandoraPFOsWithoutIsoPhotonCollection" type="string" lcioInType="ReconstructedParticle"> PandoraPFOsWithoutIsoPhoton</parameter>
+ <parameter name="hmass" type="float"> 50 </parameter>
+ <parameter name="ProcessListFile" type="string"> 2f_z </parameter>
+ <parameter name="RootFileName"> /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1807/results_50/2f_z_l_eL.pR.root </parameter>
+	</processor>
+</marlin>
+

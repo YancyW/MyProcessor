@@ -1,0 +1,58 @@
+root_file_10:
+    nh_{10}^{10}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/nh_10_eL.pR.root  :  79.026852 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/nh_10_eR.pL.root  :  50.415099 
+    4f_{ww}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_l_eL.pR.root  :  1564.2091 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_l_eR.pL.root  :  14.691728 
+    4f_{ww}^{sl}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_sl_eL.pR.root  :  18780.976 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_sl_eR.pL.root  :  172.73264 
+    4f_{ww}^{h}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_h_eL.pR.root  :  14874.28 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_ww_h_eR.pL.root  :  136.35687 
+    4f_{zz}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_l_eL.pR.root  :  157.96041 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_l_eR.pL.root  :  99.506102 
+    4f_{zz}^{sl}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_sl_eL.pR.root  :  1422.1429 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_sl_eR.pL.root  :  713.52633 
+    4f_{zz}^{h}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_h_eL.pR.root  :  1402.0553 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zz_h_eR.pL.root  :  604.97119 
+    4f_{zzww}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zzww_l_eL.pR.root  :  1636.0362 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zzww_l_eR.pL.root  :  53.955513 
+    4f_{zzww}^{sl}:
+        no such class:  0 
+    4f_{zzww}^{h}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zzww_h_eL.pR.root  :  12383.299 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_zzww_h_eR.pL.root  :  224.84359 
+    4f_{szee}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_l_eL.pR.root  :  1084.0873 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_l_eR.pL.root  :  1019.5228 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_l_eL.pL.root  :  1009.6032 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_l_eR.pR.root  :  1008.4063 
+    4f_{szee}^{sl}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_sl_eL.pR.root  :  459.05527 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_sl_eR.pL.root  :  316.5156 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_sl_eL.pL.root  :  259.75634 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szee_sl_eR.pR.root  :  258.95773 
+    4f_{szee}^{h}:
+        no such class:  0 
+    4f_{sznn}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_sznn_l_eL.pR.root  :  192.75282 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_sznn_l_eR.pL.root  :  39.31864 
+    4f_{sznn}^{sl}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_sznn_sl_eL.pR.root  :  456.79981 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_sznn_sl_eR.pL.root  :  130.78916 
+    4f_{sznn}^{h}:
+        no such class:  0 
+    4f_{szsw}^{l}:
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szsw_l_eL.pR.root  :  922.04811 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szsw_l_eR.pL.root  :  21.594145 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szsw_l_eL.pL.root  :  27.671291 
+        /afs/desy.de/user/y/ywang/dust/light_higgs_10_120_1806/results_10/4f_szsw_l_eR.pR.root  :  27.62513 
+    4f_{szsw}^{sl}:
+        no such class:  0 
+    4f_{szsw}^{h}:

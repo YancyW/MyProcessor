@@ -27,85 +27,198 @@
 #include "TRandom.h"
 #include "Recoil_mass.h"
 #include "Debug.h"
+#include "CMC.h"
 
 using namespace lcio;
 using namespace marlin;
+using ToolSet::operator<<;
 
-bool MyProcessor::analyseMCParticle( LCCollection* Allmc,Infomation &info) {
+bool MyProcessor::analyseMCParticle( LCCollection* Allmc,LCCollection* MCsWithoutIsoPhoton_Collection,LCCollection* MCsPhoton_Collection,LCCollection* MCsForwardPhoton_Collection,   Infomation &info) {
 	debug.Message(2,21,"in analyseMCParticle:  begin check FS_GenLevel ");
-	std::vector<MCParticle*> FS_GenLevel=checkMCFinalState_GenLevel(Allmc);
 
-	std::vector<MCParticle*> gen_pfos_recovery,gen_choosedmuon_recovery;
-	std::vector<MCParticle*> gen_leps_left;
+	//generate all basic sorts 
+	std::vector<MCParticle*> MCs_TFS                =ToolSet::CMC::Get_MCParticle(Allmc);
+	//std::vector<MCParticle*> MCs                   =ToolSet::CMC::Pass_DetectorAngle(MCs_TFS);
+	std::vector<MCParticle*> MCs = MCs_TFS;
+	std::vector<MCParticle*> hs_FS                 =ToolSet::CMC::Get_MC_HardScattering_FS(MCs);
+	std::vector<MCParticle*> py_FS                 =ToolSet::CMC::Get_MC_PythiaShowering_FS(MCs);
+	std::vector<MCParticle*> de_FS                 =ToolSet::CMC::Get_MC_DetectorSimulating_FS(MCs);
 
-	debug.Message(2,21,"in analyseMCParticle:  already put Allmc data into vector, totally has n particles",FS_GenLevel);
+	// photon related
 
-	debug.Message(2,21,"in analyseMCParticle:  the FS_GenLevel size is",FS_GenLevel.size());
-	std::vector<MCParticle*> gen_muonminus=checkMCParticleType(FS_GenLevel,13);
-	debug.Message(2,21,"in analyseMCParticle:  the gen_muon- size is",gen_muonminus.size());
-	std::vector<MCParticle*> gen_muonplus=checkMCParticleType(FS_GenLevel,-13);
-	debug.Message(2,21,"in analyseMCParticle:  the gen muon+ size is",gen_muonplus.size());
-	std::vector<MCParticle*> gen_muon;
-	gen_muon=gen_muonminus+gen_muonplus;
-	debug.Message(2,21,"in analyseMCParticle:  the gen muon is",gen_muon);
-	info.num_muon_gen.num      = gen_muon.size();
-	info.num_muon_gen.num_plus = gen_muonplus.size();
-	info.num_muon_gen.num_minus= gen_muonminus.size();
+	std::vector<MCParticle*> MCsWithoutIsoPhoton   =ToolSet::CMC::Get_MCParticle(MCsWithoutIsoPhoton_Collection);
+	std::vector<MCParticle*> MCsCenterPhoton       =ToolSet::CMC::Get_MCParticle(MCsPhoton_Collection);
+	std::vector<MCParticle*> MCsForwardPhoton      =ToolSet::CMC::Get_MCParticle(MCsForwardPhoton_Collection);
 
-	if(MCCutMuon(gen_muon)){
+
+	std::vector<MCParticle*> MCsPhoton             =MCsCenterPhoton + MCsForwardPhoton;
+	std::vector<MCParticle*> hs_MCsPhoton          =ToolSet::CMC::Get_MC_HardScattering_FS    (MCsPhoton       );
+	std::vector<MCParticle*> py_MCsPhoton          =ToolSet::CMC::Get_MC_PythiaShowering_FS   (MCsPhoton       );
+	std::vector<MCParticle*> de_MCsPhoton          =ToolSet::CMC::Get_MC_DetectorSimulating_FS(MCsPhoton       );
+
+
+
+
+	// for hard scattering
+
+	std::vector<MCParticle*> hs_muon, hs_muon_choosed,  hs_womuon, hs_muon_combined, hs_womuon_combined, hs_muon_left;
+
+
+	std::vector<MCParticle*> hs_higgs     =ToolSet::CMC::Get_MCParticleType(hs_FS,25);
+	std::vector<MCParticle*> hs_W         =ToolSet::CMC::Get_MCParticleType_Abs(hs_FS,24);
+	std::vector<MCParticle*> hs_Z         =ToolSet::CMC::Get_MCParticleType(hs_FS,23);
+	std::vector<MCParticle*> hs_gamma     =ToolSet::CMC::Get_MCParticleType(hs_FS,22);
+
+	std::vector<MCParticle*> hs_muonminus =ToolSet::CMC::Get_MCParticleType(hs_FS,13);
+	std::vector<MCParticle*> hs_muonplus  =ToolSet::CMC::Get_MCParticleType(hs_FS,-13);
+	std::vector<MCParticle*> hs_tauminus  =ToolSet::CMC::Get_MCParticleType_Abs(hs_FS,15);
+	std::vector<MCParticle*> hs_elecminus =ToolSet::CMC::Get_MCParticleType_Abs(hs_FS,11);
+	std::vector<MCParticle*> hs_quark     =ToolSet::CMC::Get_MCParticleType(hs_FS,"quark");
+
+
+	if(hs_higgs.size()>0){
+		info.data_muon_hs.higgs_channel = ToolSet::CMC::Get_DecayChannel(hs_higgs[0]);
+	}
+
+	hs_muon=hs_muonminus+hs_muonplus;
+	info.num_muon_hs.num      = hs_muon.size();
+	info.num_muon_hs.num_plus = hs_muonplus.size();
+	info.num_muon_hs.num_minus= hs_muonminus.size();
+
+	if(MCCutMuon(hs_muon)){
 		debug.Message(2,21,"in analyseMCParticle:  begin recoil for muon pair");
-		std::vector<MCParticle*> gen_choosedmuon;
-		bool Jrecoil_gen=obvRecoil(gen_muon,gen_choosedmuon);
-		std::vector<MCParticle*> gen_pfos=FS_GenLevel-gen_choosedmuon;
-		if( Jrecoil_gen){
-////		debug.Message(2,21,"in analyseMCParticle:  before recovery",gen_choosedmuon);
-////		bool Jrecovery_gen=checkMCIsoLepCone(gen_choosedmuon,gen_pfos,gen_choosedmuon_recovery,gen_pfos_recovery,info);
-////		debug.Message(2,21,"in analyseMCParticle:  after recovery",gen_choosedmuon_recovery);
-////		bool JMCCut_gen=MCCutDetail(gen_pfos_recovery,gen_leps_left,gen_choosedmuon_recovery,info.data_muon_gen);
+		bool Jrecoil=obvRecoil(hs_muon,hs_muon_choosed);
+		hs_womuon    = hs_FS   - hs_muon_choosed;
+		hs_muon_left = hs_muon - hs_muon_choosed;
+		if( Jrecoil){
+			bool Jcombinephoton = checkMCIsoLepCone(hs_muon_choosed, hs_womuon, hs_muon_combined, hs_womuon_combined, info);
+			bool JMCCut         = MCCutDetail      (hs_womuon_combined, hs_muon_left, hs_muon_combined, info.data_muon_hs);
+			MCCutPhoton(hs_MCsPhoton, info.data_muon_hs);
 		}
-		for(int i=0;i<gen_choosedmuon_recovery.size();i++){
-			delete gen_choosedmuon_recovery[i];
+		for(int i=0;i<hs_muon_combined.size();i++){
+			delete hs_muon_combined[i];
 		}
 	}
 
 
 
-    std::vector<MCParticle*> pfos_recovery,choosedmuon_recovery;
-    std::vector<MCParticle*> leps_left;
+	//use Pythia FS muon, but it should come from Z
+	// get FS particle
+//	std::cout << "pythia FS muon" << std::endl;
+	_muon_chain.Get_ChainVec(hs_muon,_navpfo);
+    std::vector<std::vector<MCParticle*> >                           isr_end_muon      = _muon_chain.Get_MCEnd();
 
-    debug.Message(2,25,"in analyseMCParticle:  begin check FS_PythiaLevel ");
-    std::vector<MCParticle*> FS_PythiaLevel=checkMCFinalState_PythiaLevel(Allmc);
-    debug.Message(2,25,"in analyseMCParticle:  begin check muon-, the FS_PythiaLevel size is",FS_PythiaLevel);
-    std::vector<MCParticle*> mc_muonminus=checkMCParticleType(FS_PythiaLevel,13);
-    debug.Message(2,25,"in analyseMCParticle:  begin check muon+, the muon- size is",mc_muonminus.size());
-    std::vector<MCParticle*> mc_muonplus=checkMCParticleType(FS_PythiaLevel,-13);
-    debug.Message(2,25,"in analyseMCParticle:  begin check muon+-, the muon+ size is",mc_muonplus.size());
-    std::vector<MCParticle*> mc_muon;
-    mc_muon=mc_muonminus+mc_muonplus;
-    debug.Message(2,25,"in analyseMCParticle:  begin cut for muon, the muon size is", mc_muon);
-    info.num_muon.num       = mc_muon.size();
-    info.num_muon.num_plus  = mc_muonplus.size();
-    info.num_muon.num_minus = mc_muonminus.size();
+	_photon_chain.Get_ChainVec(hs_MCsPhoton,_navpfo);
+    std::vector<std::vector<MCParticle*> >                           isr_end_photon    = _photon_chain.Get_MCEnd();
 
-    if(MCCutMuon(mc_muon)){
-    	debug.Message(2,25,"in analyseMCParticle:  begin recoil for muon pair");
-    	std::vector<MCParticle*> choosedmuon;
-    	bool Jrecoil=obvRecoil(mc_muon,choosedmuon);
-    	std::vector<MCParticle*> pfos=FS_PythiaLevel-choosedmuon;
-    	if(Jrecoil){
-    //		bool JMCCut=MCCutDetail(pfos,leps_left,choosedmuon,info.data_muon);
-
-
-    		debug.Message(2,25,"in analyseMCParticle:  before recovery",choosedmuon);
-    		bool Jrecovery=checkMCIsoLepCone(choosedmuon,pfos,choosedmuon_recovery,pfos_recovery,info);
-    		debug.Message(2,25,"in analyseMCParticle:  after recovery",choosedmuon_recovery);
-    		bool JMCCut_recovery=MCCutDetail(pfos_recovery,leps_left,choosedmuon_recovery,info.data_muon_recovery);
-    	}
-    	for(int i=0;i<choosedmuon_recovery.size();i++){
-    		delete choosedmuon_recovery[i];
-    	}
+	std::vector<MCParticle*> hs_end_muon, py_ex_MCsPhoton, py_ex_FS;
+	std::vector<MCParticle*> py_ex_muon, py_ex_muon_choosed, py_ex_womuon, py_ex_muon_combined, py_ex_womuon_combined, py_ex_muon_left;
+    for(int i=0;i<isr_end_muon.size();i++){
+		std::vector<MCParticle*> hs_end_muon_tmp =ToolSet::CMC::Get_MCParticleType_Abs(isr_end_muon[i],13);
+		hs_end_muon = hs_end_muon + hs_end_muon_tmp;
+		py_ex_FS   = py_ex_FS   + isr_end_muon[i];
     }
-    debug.Message(2,25,"");
+	ToolSet::CMC::Remove_Duplication(hs_end_muon);
+    for(int i=0;i<isr_end_photon.size();i++){
+		std::vector<MCParticle*> py_ex_MCsPhoton_tmp =ToolSet::CMC::Get_MCParticleType_Abs(isr_end_photon[i],22);
+		py_ex_MCsPhoton= py_ex_MCsPhoton+ py_ex_MCsPhoton_tmp;
+		py_ex_FS   = py_ex_FS   + isr_end_photon[i];
+    }
+	ToolSet::CMC::Remove_Duplication(py_ex_MCsPhoton);
+	ToolSet::CMC::Remove_Duplication(py_ex_FS);
+	py_ex_womuon = py_ex_FS - hs_end_muon;
+
+
+
+
+	std::vector<MCParticle*> py_ex_muonminus   =ToolSet::CMC::Get_MCParticleType(hs_end_muon,13);
+	std::vector<MCParticle*> py_ex_muonplus    =ToolSet::CMC::Get_MCParticleType(hs_end_muon,-13);
+
+	py_ex_muon=py_ex_muonminus+py_ex_muonplus;
+	info.num_muon_py_ex.num       =py_ex_muon.size();
+	info.num_muon_py_ex.num_plus  =py_ex_muonplus.size();
+	info.num_muon_py_ex.num_minus =py_ex_muonminus.size();
+
+	if(MCCutMuon(py_ex_muon)){
+		debug.Message(2,25,"in analyseMCParticle:  begin recoil for muon pair");
+		bool Jrecoil=obvRecoil(py_ex_muon,py_ex_muon_choosed);
+		py_ex_womuon    = py_ex_FS   - py_ex_muon_choosed;
+		py_ex_muon_left = py_ex_muon - py_ex_muon_choosed;
+		if(Jrecoil){
+			bool Jcombinephoton = checkMCIsoLepCone(py_ex_muon_choosed, py_ex_womuon, py_ex_muon_combined, py_ex_womuon_combined, info);
+			bool JMCCut         = MCCutDetail      (py_ex_womuon_combined, py_ex_muon_left, py_ex_muon_combined, info.data_muon_py_ex);
+			MCCutPhoton(py_ex_MCsPhoton,info.data_muon_py_ex);
+		}
+		for(int i=0;i<py_ex_muon_combined.size();i++){
+			delete py_ex_muon_combined[i];
+		}
+	}
+	debug.Message(2,25,"");
+
+
+
+
+
+
+	// for all pythia final state
+//	std::cout << "pythia all FS" << std::endl;
+	std::vector<MCParticle*> py_im_muon, py_im_muon_choosed, py_im_womuon, py_im_muon_combined, py_im_womuon_combined, py_im_muon_left;
+
+	std::vector<MCParticle*> py_im_muonminus   =ToolSet::CMC::Get_MCParticleType(py_FS,13);
+	std::vector<MCParticle*> py_im_muonplus    =ToolSet::CMC::Get_MCParticleType(py_FS,-13);
+
+	py_im_muon=py_im_muonminus+py_im_muonplus;
+	info.num_muon_py_im.num       =py_im_muon.size();
+	info.num_muon_py_im.num_plus  =py_im_muonplus.size();
+	info.num_muon_py_im.num_minus =py_im_muonminus.size();
+
+	if(MCCutMuon(py_im_muon)){
+		debug.Message(2,25,"in analyseMCParticle:  begin recoil for muon pair");
+		bool Jrecoil=obvRecoil(py_im_muon,py_im_muon_choosed);
+		py_im_womuon    = py_FS      - py_im_muon_choosed;
+		py_im_muon_left = py_im_muon - py_im_muon_choosed;
+		if(Jrecoil){
+			bool Jcombinephoton = checkMCIsoLepCone(py_im_muon_choosed, py_im_womuon, py_im_muon_combined, py_im_womuon_combined, info);
+			bool JMCCut         = MCCutDetail      (py_im_womuon_combined, py_im_muon_left, py_im_muon_combined, info.data_muon_py_im);
+			MCCutPhoton(py_MCsPhoton,info.data_muon_py_im);
+		}
+		for(int i=0;i<py_im_muon_combined.size();i++){
+			delete py_im_muon_combined[i];
+		}
+	}
+	debug.Message(2,25,"");
+
+
+
+
+	// for all detecter final state
+//	std::cout << "detecter all FS" << std::endl;
+	std::vector<MCParticle*> de_muon, de_muon_choosed, de_womuon, de_muon_combined, de_womuon_combined, de_muon_left;
+
+
+	std::vector<MCParticle*> de_muonminus   =ToolSet::CMC::Get_MCParticleType(de_FS,13);
+	std::vector<MCParticle*> de_muonplus    =ToolSet::CMC::Get_MCParticleType(de_FS,-13);
+
+	de_muon=de_muonminus+de_muonplus;
+	info.num_muon_de.num       =de_muon.size();
+	info.num_muon_de.num_plus  =de_muonplus.size();
+	info.num_muon_de.num_minus =de_muonminus.size();
+
+	if(MCCutMuon(de_muon)){
+		debug.Message(2,25,"in analyseMCParticle:  begin recoil for muon pair");
+		bool Jrecoil=obvRecoil(de_muon,de_muon_choosed);
+		de_womuon    = de_FS   - de_muon_choosed;
+		de_muon_left = de_muon - de_muon_choosed;
+		if(Jrecoil){
+			bool Jcombinephoton = checkMCIsoLepCone(de_muon_choosed, de_womuon, de_muon_combined, de_womuon_combined, info);
+			bool JMCCut         = MCCutDetail      (de_womuon_combined, de_muon_left, de_muon_combined, info.data_muon_de);
+			MCCutPhoton(de_MCsPhoton, info.data_muon_de);
+		}
+		for(int i=0;i<de_muon_combined.size();i++){
+			delete de_muon_combined[i];
+		}
+	}
+	debug.Message(2,25,"");
 	return(true);
 }
 

@@ -26,35 +26,36 @@
 
 #include "TRandom.h"
 #include "Recoil_mass.h"
+#include "MCOperator.h"
 
 using namespace lcio;
 using namespace marlin;
 
-bool MyProcessor::analyseTrack(int event_num,  LCCollection* PFOs_col, LCCollection* PFOsWithoutIsoleps, LCCollection* Isoleps,Infomation &info) {
+bool MyProcessor::analyseTrack(int event_num,  LCCollection* MC_col, LCCollection* PFOs_col, LCRelationNavigator* navpfo, LCRelationNavigator* navmc, LCCollection* PFOsWithoutIsoleps, LCCollection* Isoleps,Infomation &mcinfo,Infomation &rcinfo, Infomation &poinfo) {
 
 	debug.Message(2,50,"begin analyseTrack");
 
 
+	debug.Message(2,51,"");
+	debug.Message(2,51,"event num",event_num);
+
+
 	std::vector<ReconstructedParticle*> PFOs     = checkPOFinalState(PFOs_col);
-	std::vector<ReconstructedParticle*> leps     = checkPOFinalState(Isoleps);
-	std::vector<ReconstructedParticle*> pfoWOleps= checkPOFinalState(PFOsWithoutIsoleps);
+	std::vector<MCParticle*>            MCs      = checkMCFinalState_PythiaLevel(MC_col);
 
-	if(leps.size()<2){
-		debug.Message(2,51,"lep size < 2, The event number is",event_num);
-		debug.Message(2,51,"The PFOs size is",PFOs.size());
+	std::vector<ReconstructedParticle*> leps  ,  pfoWOleps;
+	leps     = checkPOFinalState(Isoleps);
+	pfoWOleps= checkPOFinalState(PFOsWithoutIsoleps);
+
+
+
+
+	int mctest = TrackAnaMC (event_num,MCs ,navmc ,mcinfo);
+	int rctest = TrackAnaRC (event_num,PFOs,navpfo,rcinfo);
+	if(rctest!=0){
+		TrackPayBackMC (event_num,MCs ,navmc ,mcinfo);
 	}
-
-////debug.Message(2,50,"PFOs size",PFOs.size());
-////for(int i=0;i<PFOs.size();i++){
-////	debug.Message(2,51,"Track size",PFOs[i]->getTracks().size());
-////	for(int j=0;j<PFOs[i]->getTracks().size();j++){
-////		debug.Message(2,51,"Track Type",PFOs[i]->getTracks()[j]->getType());
-////	}
-////}
-
-	info.data_muon.pfo_num = PFOs.size();
-
-
+//	TrackAnaISL(event_num,navpfo,pfoWOleps,leps,poinfo);
 
 
 	return(true);

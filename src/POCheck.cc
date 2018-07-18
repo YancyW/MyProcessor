@@ -115,7 +115,7 @@ ReconstructedParticle* MyProcessor::getVisible(std::vector<ReconstructedParticle
 
 ReconstructedParticle* MyProcessor::getInVisible(std::vector<ReconstructedParticle*> in){
 	ReconstructedParticle* visible = getVisible(in);
-	ReconstructedParticle* RCCollider=NewParticle(250*sin(0.014/2.0),0,0,250,in[0]);
+	ReconstructedParticle* RCCollider=NewParticle(_cmenergy*sin(0.014/2.0),0,0,_cmenergy,in[0]);
 	ReconstructedParticle* invisible= Minus(RCCollider,visible);
 	delete RCCollider;
 	delete visible;
@@ -130,7 +130,7 @@ bool MyProcessor::POCutDetail(std::vector<ReconstructedParticle*> &PFOsWithoutIs
 	debug.Message(2,33,"in MCCutDetail : get visible_vec, size of lep",Isoleps.size());
 
 
-	ReconstructedParticle* Collider=NewParticle(250*sin(0.014/2.0),0,0,250,choosed_lep[0]);
+	ReconstructedParticle* Collider=NewParticle(_cmenergy*sin(0.014/2.0),0,0,_cmenergy,choosed_lep[0]);
 	ReconstructedParticle* pair    =Add(choosed_lep[0],choosed_lep[1]);
 	debug.Message(2,12,"in obvRecoil: the pair are ",pair);
 	debug.Message(2,12,"in obvRecoil: the Collider are ",Collider);
@@ -142,7 +142,7 @@ bool MyProcessor::POCutDetail(std::vector<ReconstructedParticle*> &PFOsWithoutIs
 	debug.Message(2,33,"in POCutDetail : get zmass",zmass);
 	vari.kcut_zmass=zmass;
 
-	float zpt=calPT(pair);
+	float zpt=ToolSet::CMC::Cal_PT(pair);
 	debug.Message(2,33,"in POCutDetail : get zpt",zpt);
 	vari.kcut_zpt=zpt;
 
@@ -165,29 +165,39 @@ bool MyProcessor::POCutDetail(std::vector<ReconstructedParticle*> &PFOsWithoutIs
 	ReconstructedParticle* invisible=getInVisible(invisible_vec);
 	debug.Message(2,33,"in POCutDetail : get invisible",invisible);
 
-	float invis_costheta=calCosTheta(invisible);
-	vari.kcut_invis_costheta=invis_costheta;
+	float invis_costheta=ToolSet::CMC::Cal_CosTheta(invisible);
+	float invis_e       =invisible->getEnergy();
+	if(invis_e>10){
+		vari.kcut_invis_costheta=invis_costheta;
+	}
+	vari.kcut_invis_e       =invis_e;
 	debug.Message(2,33,"in POCutDetail : get invis_costheta",invis_costheta);
 
 
-	vari.lep_pair_costheta=calCosTheta(pair);
-	vari.lep_pair_costheta_pair=calCosTheta(choosed_lep[0],choosed_lep[1]);
+	vari.lep_pair_costheta     =ToolSet::CMC::Cal_CosTheta(pair);
+	vari.lep_pair_costheta_pair=ToolSet::CMC::Cal_CosTheta(choosed_lep[0],choosed_lep[1]);
 
+	vari.lep_pair_azimuth      =ToolSet::CMC::Cal_Azimuth (pair);
+	vari.lep_pair_azimuth_pair =ToolSet::CMC::Cal_Acoplanarity(choosed_lep[0],choosed_lep[1]);
 
 	if(choosed_lep[0]->getCharge()>0&&choosed_lep[1]->getCharge()<0){
-		vari.lep_pair_costheta_track1=calCosTheta(choosed_lep[0]);
-		vari.track1_pt               =calPT      (choosed_lep[0]);
+		vari.lep_pair_costheta_track1=ToolSet::CMC::Cal_CosTheta(choosed_lep[0]);
+		vari.lep_pair_costheta_track2=ToolSet::CMC::Cal_CosTheta(choosed_lep[1]);
+		vari.lep_pair_azimuth_track1 =ToolSet::CMC::Cal_Azimuth (choosed_lep[0]);
+		vari.lep_pair_azimuth_track2 =ToolSet::CMC::Cal_Azimuth (choosed_lep[1]);
+		vari.track1_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[0]);
+		vari.track2_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[1]);
 		vari.track1_e                =choosed_lep[0]->getEnergy();
-		vari.lep_pair_costheta_track2=calCosTheta(choosed_lep[1]);
-		vari.track2_pt               =calPT      (choosed_lep[1]);
 		vari.track2_e                =choosed_lep[1]->getEnergy();
 	}
 	else if(choosed_lep[0]->getCharge()<0&&choosed_lep[1]->getCharge()>0){
-		vari.lep_pair_costheta_track1=calCosTheta(choosed_lep[1]);
-		vari.track1_pt               =calPT      (choosed_lep[1]);
+		vari.lep_pair_costheta_track1=ToolSet::CMC::Cal_CosTheta(choosed_lep[1]);
+		vari.lep_pair_costheta_track2=ToolSet::CMC::Cal_CosTheta(choosed_lep[0]);
+		vari.lep_pair_azimuth_track1 =ToolSet::CMC::Cal_Azimuth (choosed_lep[1]);
+		vari.lep_pair_azimuth_track2 =ToolSet::CMC::Cal_Azimuth (choosed_lep[0]);
+		vari.track1_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[1]);
+		vari.track2_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[0]);
 		vari.track1_e                =choosed_lep[1]->getEnergy();
-		vari.lep_pair_costheta_track2=calCosTheta(choosed_lep[0]);
-		vari.track2_pt               =calPT      (choosed_lep[0]);
 		vari.track2_e                =choosed_lep[0]->getEnergy();
 	}
 	else{
@@ -204,6 +214,15 @@ bool MyProcessor::POCutDetail(std::vector<ReconstructedParticle*> &PFOsWithoutIs
 	vari.kcut_vis_e=vis_e;
 	debug.Message(2,33,"in POCutDetail : get visible_energy",vis_e);
 
+	//  Opal's observables
+	vari.opal_lep_isolation1        =ToolSet::CRC::Cal_IsolationAngle(choosed_lep[0],PFOsWithoutIsoleps);
+	vari.opal_lep_isolation2        =ToolSet::CRC::Cal_IsolationAngle(choosed_lep[1],PFOsWithoutIsoleps);
+	vari.opal_zmass                 =zmass;
+	vari.opal_lep_pair_pz           =pair->getMomentum()[3];
+	vari.opal_invis_momentum        =ToolSet::CMC::Cal_P(invisible);
+	vari.opal_invis_costheta        =ToolSet::CMC::Cal_CosTheta(invisible);
+	vari.opal_lep_pair_acoplanarity =ToolSet::CMC::Cal_Acoplanarity(choosed_lep[0],choosed_lep[1]);
+
 	delete visible;
 	delete invisible;
 	delete Collider;
@@ -215,3 +234,25 @@ bool MyProcessor::POCutDetail(std::vector<ReconstructedParticle*> &PFOsWithoutIs
 
 
 
+void MyProcessor::POCutPhoton(std::vector<ReconstructedParticle*> &IsoPhoton, std::vector<ReconstructedParticle*> &IsoForwardPhoton,  Variable &vari){
+	vari.total_photon_number = IsoPhoton.size() + IsoForwardPhoton.size();
+	vari.photon_number = IsoPhoton.size() ;
+	if(vari.photon_number > 0){
+		vari.photon_energy1 = IsoPhoton[0]->getEnergy();
+		vari.photon_costheta1 = ToolSet::CMC::Cal_CosTheta(IsoPhoton[0]);
+	}
+	if(vari.photon_number > 1){
+		vari.photon_energy2 = IsoPhoton[1]->getEnergy();
+		vari.photon_costheta2 = ToolSet::CMC::Cal_CosTheta(IsoPhoton[1]);
+	}
+	
+	vari.forward_photon_number = IsoForwardPhoton.size();
+	if(vari.forward_photon_number > 0){
+		vari.forward_photon_energy1 = IsoForwardPhoton[0]->getEnergy();
+		vari.forward_photon_costheta1 = ToolSet::CMC::Cal_CosTheta(IsoForwardPhoton[0]);
+	}
+	if(vari.forward_photon_number > 1){
+		vari.forward_photon_energy2 = IsoForwardPhoton[1]->getEnergy();
+		vari.forward_photon_costheta2 = ToolSet::CMC::Cal_CosTheta(IsoForwardPhoton[1]);
+	}
+}

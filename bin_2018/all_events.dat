@@ -1,0 +1,2876 @@
+class name:  4f_WW
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106581.P4f_ww_l.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106581.P4f_ww_l.eL.pR-00002-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0043546175
+end of weight:  4f_WW
+xection:  4f_WW
+1564.2091
+end of xection:  4f_WW
+end of pol:  lr
+
+pol:  rl
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106582.P4f_ww_l.eR.pL-00001-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0014691728
+end of weight:  4f_WW
+xection:  4f_WW
+14.691728
+end of xection:  4f_WW
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00044-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00045-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00046-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00047-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00048-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106577.P4f_ww_sl.eL.pR-00049-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0100339931
+end of weight:  4f_WW
+xection:  4f_WW
+18780.976
+end of xection:  4f_WW
+end of pol:  lr
+
+pol:  rl
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106578.P4f_ww_sl.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106578.P4f_ww_sl.eR.pL-00002-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0040642018
+end of weight:  4f_WW
+xection:  4f_WW
+172.73264
+end of xection:  4f_WW
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00044-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00045-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00046-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00047-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00048-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00049-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00050-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00051-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00052-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00053-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00054-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106551.P4f_ww_h.eL.pR-00055-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0138432487
+end of weight:  4f_WW
+xection:  4f_WW
+14874.28
+end of xection:  4f_WW
+end of pol:  lr
+
+pol:  rl
+file:  4f_WW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106552.P4f_ww_h.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_WW_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106552.P4f_ww_h.eR.pL-00002-DST.slcio
+end of file:  4f_WW
+weight:  4f_WW
+0.0043183706
+end of weight:  4f_WW
+xection:  4f_WW
+136.35687
+end of xection:  4f_WW
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_WW
+
+class name:  4f_ZZ
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106579.P4f_zz_l.eL.pR-00001-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0039490103
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+157.96041
+end of xection:  4f_ZZ
+end of pol:  lr
+
+pol:  rl
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106580.P4f_zz_l.eR.pL-00001-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0033168701
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+99.506102
+end of xection:  4f_ZZ
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106575.P4f_zz_sl.eL.pR-00010-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0043165219
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+1422.1429
+end of xection:  4f_ZZ
+end of pol:  lr
+
+pol:  rl
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106576.P4f_zz_sl.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106576.P4f_zz_sl.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106576.P4f_zz_sl.eR.pL-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106576.P4f_zz_sl.eR.pL-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106576.P4f_zz_sl.eR.pL-00005-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0042818945
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+713.52633
+end of xection:  4f_ZZ
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106573.P4f_zz_h.eL.pR-00018-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0039984808
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+1402.0553
+end of xection:  4f_ZZ
+end of pol:  lr
+
+pol:  rl
+file:  4f_ZZ
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZ_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106574.P4f_zz_h.eR.pL-00008-DST.slcio
+end of file:  4f_ZZ
+weight:  4f_ZZ
+0.0039977479
+end of weight:  4f_ZZ
+xection:  4f_ZZ
+604.97119
+end of xection:  4f_ZZ
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_ZZ
+
+class name:  4f_ZZWWMix
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_ZZWWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106721.P4f_zzorww_l.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106721.P4f_zzorww_l.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106721.P4f_zzorww_l.eL.pR-00003-DST.slcio
+end of file:  4f_ZZWWMix
+weight:  4f_ZZWWMix
+0.0041927285
+end of weight:  4f_ZZWWMix
+xection:  4f_ZZWWMix
+1636.0362
+end of xection:  4f_ZZWWMix
+end of pol:  lr
+
+pol:  rl
+file:  4f_ZZWWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106722.P4f_zzorww_l.eR.pL-00001-DST.slcio
+end of file:  4f_ZZWWMix
+weight:  4f_ZZWWMix
+0.0026977757
+end of weight:  4f_ZZWWMix
+xection:  4f_ZZWWMix
+53.955513
+end of xection:  4f_ZZWWMix
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+file:  4f_ZZWWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00044-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00045-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00046-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00047-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00048-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00049-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00050-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00051-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00052-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00053-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106553.P4f_zzorww_h.eL.pR-00054-DST.slcio
+end of file:  4f_ZZWWMix
+weight:  4f_ZZWWMix
+0.0117664097
+end of weight:  4f_ZZWWMix
+xection:  4f_ZZWWMix
+12383.299
+end of xection:  4f_ZZWWMix
+end of pol:  lr
+
+pol:  rl
+file:  4f_ZZWWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106554.P4f_zzorww_h.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106554.P4f_zzorww_h.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_ZZWWMix_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106554.P4f_zzorww_h.eR.pL-00003-DST.slcio
+end of file:  4f_ZZWWMix
+weight:  4f_ZZWWMix
+0.0044468888
+end of weight:  4f_ZZWWMix
+xection:  4f_ZZWWMix
+224.84359
+end of xection:  4f_ZZWWMix
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_ZZWWMix
+
+class name:  4f_singleZee
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106556.P4f_sze_l.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106556.P4f_sze_l.eL.pR-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0044262372
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+1084.0873
+end of xection:  4f_singleZee
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106558.P4f_sze_l.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106558.P4f_sze_l.eR.pL-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0047207342
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+1019.5228
+end of xection:  4f_singleZee
+end of pol:  rl
+
+pol:  ll
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106555.P4f_sze_l.eL.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106555.P4f_sze_l.eL.pL-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0046071992
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+1009.6032
+end of xection:  4f_singleZee
+end of pol:  ll
+
+pol:  rr
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106557.P4f_sze_l.eR.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106557.P4f_sze_l.eR.pR-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0044795958
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+1008.4063
+end of xection:  4f_singleZee
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106560.P4f_sze_sl.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106560.P4f_sze_sl.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106560.P4f_sze_sl.eL.pR-00003-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0039773627
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+459.05527
+end of xection:  4f_singleZee
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106562.P4f_sze_sl.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106562.P4f_sze_sl.eR.pL-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0043846013
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+316.5156
+end of xection:  4f_singleZee
+end of pol:  rl
+
+pol:  ll
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106559.P4f_sze_sl.eL.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106559.P4f_sze_sl.eL.pL-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0042673250
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+259.75634
+end of xection:  4f_singleZee
+end of pol:  ll
+
+pol:  rr
+file:  4f_singleZee
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106561.P4f_sze_sl.eR.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZee_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106561.P4f_sze_sl.eR.pR-00002-DST.slcio
+end of file:  4f_singleZee
+weight:  4f_singleZee
+0.0043346735
+end of weight:  4f_singleZee
+xection:  4f_singleZee
+258.95773
+end of xection:  4f_singleZee
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_singleZee
+
+class name:  4f_singleZnunu
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_singleZnunu
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106589.P4f_sznu_l.eL.pR-00001-DST.slcio
+end of file:  4f_singleZnunu
+weight:  4f_singleZnunu
+0.0032125470
+end of weight:  4f_singleZnunu
+xection:  4f_singleZnunu
+192.75282
+end of xection:  4f_singleZnunu
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleZnunu
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106590.P4f_sznu_l.eR.pL-00001-DST.slcio
+end of file:  4f_singleZnunu
+weight:  4f_singleZnunu
+0.0019659320
+end of weight:  4f_singleZnunu
+xection:  4f_singleZnunu
+39.31864
+end of xection:  4f_singleZnunu
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+file:  4f_singleZnunu
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106571.P4f_sznu_sl.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106571.P4f_sznu_sl.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106571.P4f_sznu_sl.eL.pR-00003-DST.slcio
+end of file:  4f_singleZnunu
+weight:  4f_singleZnunu
+0.0040598293
+end of weight:  4f_singleZnunu
+xection:  4f_singleZnunu
+456.79981
+end of xection:  4f_singleZnunu
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleZnunu
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZnunu_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106572.P4f_sznu_sl.eR.pL-00001-DST.slcio
+end of file:  4f_singleZnunu
+weight:  4f_singleZnunu
+0.0039633079
+end of weight:  4f_singleZnunu
+xection:  4f_singleZnunu
+130.78916
+end of xection:  4f_singleZnunu
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_singleZnunu
+
+class name:  4f_singleZsingleWMix
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_singleZsingleWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZsingleWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106568.P4f_szeorsw_l.eL.pR-00001-DST.slcio
+end of file:  4f_singleZsingleWMix
+weight:  4f_singleZsingleWMix
+0.0049558624
+end of weight:  4f_singleZsingleWMix
+xection:  4f_singleZsingleWMix
+922.04811
+end of xection:  4f_singleZsingleWMix
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleZsingleWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZsingleWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106570.P4f_szeorsw_l.eR.pL-00001-DST.slcio
+end of file:  4f_singleZsingleWMix
+weight:  4f_singleZsingleWMix
+0.0026992681
+end of weight:  4f_singleZsingleWMix
+xection:  4f_singleZsingleWMix
+21.594145
+end of xection:  4f_singleZsingleWMix
+end of pol:  rl
+
+pol:  ll
+file:  4f_singleZsingleWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZsingleWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106567.P4f_szeorsw_l.eL.pL-00001-DST.slcio
+end of file:  4f_singleZsingleWMix
+weight:  4f_singleZsingleWMix
+0.0034589114
+end of weight:  4f_singleZsingleWMix
+xection:  4f_singleZsingleWMix
+27.671291
+end of xection:  4f_singleZsingleWMix
+end of pol:  ll
+
+pol:  rr
+file:  4f_singleZsingleWMix
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleZsingleWMix_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106569.P4f_szeorsw_l.eR.pR-00001-DST.slcio
+end of file:  4f_singleZsingleWMix
+weight:  4f_singleZsingleWMix
+0.0034531412
+end of weight:  4f_singleZsingleWMix
+xection:  4f_singleZsingleWMix
+27.62513
+end of xection:  4f_singleZsingleWMix
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_singleZsingleWMix
+
+class name:  4f_singleW
+final_state name:  leptonic
+
+pol:  lr
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106586.P4f_sw_l.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106586.P4f_sw_l.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106586.P4f_sw_l.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106586.P4f_sw_l.eL.pR-00004-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0051855282
+end of weight:  4f_singleW
+xection:  4f_singleW
+3334.6576
+end of xection:  4f_singleW
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106588.P4f_sw_l.eR.pL-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0029097780
+end of weight:  4f_singleW
+xection:  4f_singleW
+29.09778
+end of xection:  4f_singleW
+end of pol:  rl
+
+pol:  ll
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106585.P4f_sw_l.eL.pL-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0039949886
+end of weight:  4f_singleW
+xection:  4f_singleW
+39.949886
+end of xection:  4f_singleW
+end of pol:  ll
+
+pol:  rr
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106587.P4f_sw_l.eR.pR-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0039915123
+end of weight:  4f_singleW
+xection:  4f_singleW
+39.915123
+end of xection:  4f_singleW
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00044-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00045-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00046-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00047-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00048-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106564.P4f_sw_sl.eL.pR-00049-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0053204401
+end of weight:  4f_singleW
+xection:  4f_singleW
+9999.5172
+end of xection:  4f_singleW
+end of pol:  lr
+
+pol:  rl
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106566.P4f_sw_sl.eR.pL-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0038916376
+end of weight:  4f_singleW
+xection:  4f_singleW
+85.616028
+end of xection:  4f_singleW
+end of pol:  rl
+
+pol:  ll
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106563.P4f_sw_sl.eL.pL-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0039894203
+end of weight:  4f_singleW
+xection:  4f_singleW
+119.68261
+end of xection:  4f_singleW
+end of pol:  ll
+
+pol:  rr
+file:  4f_singleW
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/4f_singleW_semileptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106565.P4f_sw_sl.eR.pR-00001-DST.slcio
+end of file:  4f_singleW
+weight:  4f_singleW
+0.0039763143
+end of weight:  4f_singleW
+xection:  4f_singleW
+119.28943
+end of xection:  4f_singleW
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+the class cross section is: 0
+end of class:  4f_singleW
+
+class name:  2f_Z
+final_state name:  leptonic
+
+pol:  lr
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106605.P2f_z_l.eL.pR-00009-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0110209970
+end of weight:  2f_Z
+xection:  2f_Z
+21226.352
+end of xection:  2f_Z
+end of pol:  lr
+
+pol:  rl
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_leptonic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106606.P2f_z_l.eR.pL-00007-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0110037140
+end of weight:  2f_Z
+xection:  2f_Z
+16470.018
+end of xection:  2f_Z
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  leptonic
+
+final_state name:  semileptonic
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  semileptonic
+
+final_state name:  hadronic
+
+pol:  lr
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106607.P2f_z_h.eL.pR-00044-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0839906091
+end of weight:  2f_Z
+xection:  2f_Z
+129148.58
+end of xection:  2f_Z
+end of pol:  lr
+
+pol:  rl
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_hadronic/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106608.P2f_z_h.eR.pL-00036-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0539283712
+end of weight:  2f_Z
+xection:  2f_Z
+71272.814
+end of xection:  2f_Z
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  hadronic
+
+final_state name:  bhabhag
+
+pol:  lr
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106602.P2f_z_bhabhag.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106602.P2f_z_bhabhag.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106602.P2f_z_bhabhag.eL.pR-00003-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0498642971
+end of weight:  2f_Z
+xection:  2f_Z
+25286.933
+end of xection:  2f_Z
+end of pol:  lr
+
+pol:  rl
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106604.P2f_z_bhabhag.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106604.P2f_z_bhabhag.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106604.P2f_z_bhabhag.eR.pL-00003-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0501545145
+end of weight:  2f_Z
+xection:  2f_Z
+24228.041
+end of xection:  2f_Z
+end of pol:  rl
+
+pol:  ll
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106601.P2f_z_bhabhag.eL.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106601.P2f_z_bhabhag.eL.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106601.P2f_z_bhabhag.eL.pL-00003-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0498876915
+end of weight:  2f_Z
+xection:  2f_Z
+25108.525
+end of xection:  2f_Z
+end of pol:  ll
+
+pol:  rr
+file:  2f_Z
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106603.P2f_z_bhabhag.eR.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106603.P2f_z_bhabhag.eR.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/2f_Z_bhabhag/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106603.P2f_z_bhabhag.eR.pR-00003-DST.slcio
+end of file:  2f_Z
+weight:  2f_Z
+0.0499335935
+end of weight:  2f_Z
+xection:  2f_Z
+25128.282
+end of xection:  2f_Z
+end of pol:  rr
+end of final_state:  bhabhag
+
+the class cross section is: 0
+end of class:  2f_Z
+
+class name:  aa_2f
+final_state name:  ee
+
+pol:  lr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37761.Paa_ee.eW.pW-00001-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.4982414774
+end of weight:  aa_2f
+xection:  aa_2f
+77227.4290000000
+end of xection:  aa_2f
+end of pol:  lr
+
+pol:  rl
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37762.Paa_ee.eW.pB-00001-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.4865389393
+end of weight:  aa_2f
+xection:  aa_2f
+43788.5045386958
+end of xection:  aa_2f
+end of pol:  rl
+
+pol:  ll
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37763.Paa_ee.eB.pW-00001-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.4895706193
+end of weight:  aa_2f
+xection:  aa_2f
+44060.8661677546
+end of xection:  aa_2f
+end of pol:  ll
+
+pol:  rr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37764.Paa_ee.eB.pB-00001-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.4170932387
+end of weight:  aa_2f
+xection:  aa_2f
+16683.7295483133
+end of xection:  aa_2f
+end of pol:  rr
+end of final_state:  ee
+
+final_state name:  ll
+
+pol:  lr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37765.Paa_ll.eW.pW-00020-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0399699954
+end of weight:  aa_2f
+xection:  aa_2f
+152568.910000000
+end of xection:  aa_2f
+end of pol:  lr
+
+pol:  rl
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37766.Paa_ll.eW.pB-00009-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0497825618
+end of weight:  aa_2f
+xection:  aa_2f
+85462.6200046974
+end of xection:  aa_2f
+end of pol:  rl
+
+pol:  ll
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37767.Paa_ll.eB.pW-00009-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0499530397
+end of weight:  aa_2f
+xection:  aa_2f
+86234.6817020297
+end of xection:  aa_2f
+end of pol:  ll
+
+pol:  rr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37768.Paa_ll.eB.pB-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37768.Paa_ll.eB.pB-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37768.Paa_ll.eB.pB-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37768.Paa_ll.eB.pB-00004-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0499195521
+end of weight:  aa_2f
+xection:  aa_2f
+32629.6156909518
+end of xection:  aa_2f
+end of pol:  rr
+end of final_state:  ll
+
+final_state name:  xx
+
+pol:  lr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00022-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00023-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00024-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00025-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00026-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00027-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00028-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00029-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00030-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00031-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00032-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00033-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00034-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00035-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00036-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00037-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00038-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00039-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00040-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00041-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00042-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00043-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00044-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00045-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37769.Paa_xx.eW.pW-00046-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0199864676
+end of weight:  aa_2f
+xection:  aa_2f
+53075.0840000000
+end of xection:  aa_2f
+end of pol:  lr
+
+pol:  rl
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37770.Paa_xx.eW.pB-00015-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0249228789
+end of weight:  aa_2f
+xection:  aa_2f
+26336.4298189986
+end of xection:  aa_2f
+end of pol:  rl
+
+pol:  ll
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37771.Paa_xx.eB.pW-00016-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0249569072
+end of weight:  aa_2f
+xection:  aa_2f
+26529.1923583326
+end of xection:  aa_2f
+end of pol:  ll
+
+pol:  rr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37772.Paa_xx.eB.pB-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37772.Paa_xx.eB.pB-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37772.Paa_xx.eB.pB-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37772.Paa_xx.eB.pB-00004-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0234905976
+end of weight:  aa_2f
+xection:  aa_2f
+6018.64347428892
+end of xection:  aa_2f
+end of pol:  rr
+end of final_state:  xx
+
+final_state name:  yy
+
+pol:  lr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00008-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00009-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00010-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00011-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00012-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00013-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00014-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00015-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00016-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00017-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00018-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00019-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00020-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00021-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37773.Paa_yy.eW.pW-00022-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0040000081
+end of weight:  aa_2f
+xection:  aa_2f
+4963.08600000000
+end of xection:  aa_2f
+end of pol:  lr
+
+pol:  rl
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00007-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37774.Paa_yy.eW.pB-00008-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0045929336
+end of weight:  aa_2f
+xection:  aa_2f
+2470.13023246486
+end of xection:  aa_2f
+end of pol:  rl
+
+pol:  ll
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37775.Paa_yy.eB.pW-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37775.Paa_yy.eB.pW-00002-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0184623516
+end of weight:  aa_2f
+xection:  aa_2f
+2486.02948840992
+end of xection:  aa_2f
+end of pol:  ll
+
+pol:  rr
+file:  aa_2f
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_2f/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37776.Paa_yy.eB.pB-00001-DST.slcio
+end of file:  aa_2f
+weight:  aa_2f
+0.0079143138
+end of weight:  aa_2f
+xection:  aa_2f
+562.612742327011
+end of xection:  aa_2f
+end of pol:  rr
+end of final_state:  yy
+
+the class cross section is: 0
+end of class:  aa_2f
+
+class name:  aa_minijet
+final_state name:  min0410m1
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37833.Paamin_04_10_m1.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0220413188
+end of weight:  aa_minijet
+xection:  aa_minijet
+220.435229210966
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37834.Paamin_04_10_m1.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000326221
+end of weight:  aa_minijet
+xection:  aa_minijet
+0.326253821320532
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37835.Paamin_04_10_m1.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000612109
+end of weight:  aa_minijet
+xection:  aa_minijet
+0.612292623362559
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min0410m1
+
+final_state name:  min1020m1
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37837.Paamin_10_20_m1.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0036280733
+end of weight:  aa_minijet
+xection:  aa_minijet
+36.2843612289880
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37838.Paamin_10_20_m1.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000053655
+end of weight:  aa_minijet
+xection:  aa_minijet
+5.367151310770992E-002
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37839.Paamin_10_20_m1.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000100317
+end of weight:  aa_minijet
+xection:  aa_minijet
+0.100376890653026
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min1020m1
+
+final_state name:  min2040m1
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37841.Paamin_20_40_m1.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0009259748
+end of weight:  aa_minijet
+xection:  aa_minijet
+9.26252544867142
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37842.Paamin_20_40_m1.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000013807
+end of weight:  aa_minijet
+xection:  aa_minijet
+1.380836370111977E-002
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37843.Paamin_20_40_m1.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000026301
+end of weight:  aa_minijet
+xection:  aa_minijet
+2.630595891543892E-002
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min2040m1
+
+final_state name:  min40xxm1
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37845.Paamin_40_xx_m1.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0001744426
+end of weight:  aa_minijet
+xection:  aa_minijet
+1.74460082590543
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37846.Paamin_40_xx_m1.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000002054
+end of weight:  aa_minijet
+xection:  aa_minijet
+2.055145138864911E-003
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37847.Paamin_40_xx_m1.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000004039
+end of weight:  aa_minijet
+xection:  aa_minijet
+4.040410308560696E-003
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min40xxm1
+
+final_state name:  min0410m4
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37849.Paamin_04_10_m4.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.6362241398
+end of weight:  aa_minijet
+xection:  aa_minijet
+6362.24139778202
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37850.Paamin_04_10_m4.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0045931544
+end of weight:  aa_minijet
+xection:  aa_minijet
+45.9315444909971
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37851.Paamin_04_10_m4.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0061180749
+end of weight:  aa_minijet
+xection:  aa_minijet
+61.1807493267295
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min0410m4
+
+final_state name:  min1020m4
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37853.Paamin_10_20_m4.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0444431050
+end of weight:  aa_minijet
+xection:  aa_minijet
+444.431049684984
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37854.Paamin_10_20_m4.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0003246224
+end of weight:  aa_minijet
+xection:  aa_minijet
+3.24622397213191
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37855.Paamin_10_20_m4.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0004240958
+end of weight:  aa_minijet
+xection:  aa_minijet
+4.24095778510274
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min1020m4
+
+final_state name:  min2040m4
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37857.Paamin_20_40_m4.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0071728921
+end of weight:  aa_minijet
+xection:  aa_minijet
+71.7289206939355
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37858.Paamin_20_40_m4.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000561397
+end of weight:  aa_minijet
+xection:  aa_minijet
+0.561452961300077
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37859.Paamin_20_40_m4.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000737623
+end of weight:  aa_minijet
+xection:  aa_minijet
+0.737622639647911
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min2040m4
+
+final_state name:  min40xxm4
+
+pol:  lr
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37861.Paamin_40_xx_m4.eW.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0009041115
+end of weight:  aa_minijet
+xection:  aa_minijet
+9.04111501928672
+end of xection:  aa_minijet
+end of pol:  lr
+
+pol:  rl
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37862.Paamin_40_xx_m4.eW.pB-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000047231
+end of weight:  aa_minijet
+xection:  aa_minijet
+4.723137284656253E-002
+end of xection:  aa_minijet
+end of pol:  rl
+
+pol:  ll
+file:  aa_minijet
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/aa_minijet/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I37863.Paamin_40_xx_m4.eB.pW-00001-DST.slcio
+end of file:  aa_minijet
+weight:  aa_minijet
+0.0000067016
+end of weight:  aa_minijet
+xection:  aa_minijet
+6.702279899320969E-002
+end of xection:  aa_minijet
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  min40xxm4
+
+the class cross section is: 0
+end of class:  aa_minijet
+
+class name:  higgs
+final_state name:  e1
+
+pol:  lr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106476.Pe1e1h.eL.pR-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0009999922
+end of weight:  higgs
+xection:  higgs
+17.596863
+end of xection:  higgs
+end of pol:  lr
+
+pol:  rl
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106477.Pe1e1h.eR.pL-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0010000294
+end of weight:  higgs
+xection:  higgs
+11.159328
+end of xection:  higgs
+end of pol:  rl
+
+pol:  ll
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106475.Pe1e1h.eL.pL-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0006122187
+end of weight:  higgs
+xection:  higgs
+0.61221874
+end of xection:  higgs
+end of pol:  ll
+
+pol:  rr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106478.Pe1e1h.eR.pR-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0006117552
+end of weight:  higgs
+xection:  higgs
+0.61175515
+end of xection:  higgs
+end of pol:  rr
+end of final_state:  e1
+
+final_state name:  e2
+
+pol:  lr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106479.Pe2e2h.eL.pR-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0010000125
+end of weight:  higgs
+xection:  higgs
+17.143214
+end of xection:  higgs
+end of pol:  lr
+
+pol:  rl
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106480.Pe2e2h.eR.pL-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0010000387
+end of weight:  higgs
+xection:  higgs
+10.983425
+end of xection:  higgs
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  e2
+
+final_state name:  e3
+
+pol:  lr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106481.Pe3e3h.eL.pR-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0009999875
+end of weight:  higgs
+xection:  higgs
+17.107787
+end of xection:  higgs
+end of pol:  lr
+
+pol:  rl
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106482.Pe3e3h.eR.pL-00001-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0010000092
+end of weight:  higgs
+xection:  higgs
+10.958101
+end of xection:  higgs
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  e3
+
+final_state name:  n
+
+pol:  lr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106483.Pnnh.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106483.Pnnh.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106483.Pnnh.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106483.Pnnh.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106483.Pnnh.eL.pR-00005-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0009999998
+end of weight:  higgs
+xection:  higgs
+128.63997
+end of xection:  higgs
+end of pol:  lr
+
+pol:  rl
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106484.Pnnh.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106484.Pnnh.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106484.Pnnh.eR.pL-00003-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0010000029
+end of weight:  higgs
+xection:  higgs
+65.098189
+end of xection:  higgs
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  n
+
+final_state name:  q
+
+pol:  lr
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106485.Pqqh.eL.pR-00007-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0028353826
+end of weight:  higgs
+xection:  higgs
+346.01308
+end of xection:  higgs
+end of pol:  lr
+
+pol:  rl
+file:  higgs
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00001-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00002-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00003-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00004-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00005-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00006-DST.slcio
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/higgs_ffh/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I106486.Pqqh.eR.pL-00007-DST.slcio
+end of file:  higgs
+weight:  higgs
+0.0018186190
+end of weight:  higgs
+xection:  higgs
+221.95154
+end of xection:  higgs
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  q
+
+final_state name:  f
+
+pol:  lr
+end of pol:  lr
+
+pol:  rl
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  f
+
+the class cross section is: 0
+end of class:  higgs
+
+class name:  nh
+final_state name:  10
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250200.Pnp-lmh_mh10_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010368
+end of weight:  nh
+xection:  nh
+79.026852
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250201.Pnp-lmh_mh10_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010543
+end of weight:  nh
+xection:  nh
+50.415099
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  10
+
+final_state name:  15
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250224.Pnp-lmh_mh15_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010050
+end of weight:  nh
+xection:  nh
+69.975258
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250225.Pnp-lmh_mh15_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010070
+end of weight:  nh
+xection:  nh
+44.763029
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  15
+
+final_state name:  20
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250212.Pnp-lmh_mh20_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010090
+end of weight:  nh
+xection:  nh
+64.168684
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250213.Pnp-lmh_mh20_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010260216
+end of weight:  nh
+xection:  nh
+40.999824
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  20
+
+final_state name:  25
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250226.Pnp-lmh_mh25_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010028
+end of weight:  nh
+xection:  nh
+59.972079
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250227.Pnp-lmh_mh25_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010180
+end of weight:  nh
+xection:  nh
+38.281932
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  25
+
+final_state name:  30
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250202.Pnp-lmh_mh30_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010106
+end of weight:  nh
+xection:  nh
+56.503046
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250203.Pnp-lmh_mh30_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010099
+end of weight:  nh
+xection:  nh
+35.848167
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  30
+
+final_state name:  35
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250228.Pnp-lmh_mh35_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010026
+end of weight:  nh
+xection:  nh
+53.533619
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250229.Pnp-lmh_mh35_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010302
+end of weight:  nh
+xection:  nh
+34.149145
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  35
+
+final_state name:  40
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250214.Pnp-lmh_mh40_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010073
+end of weight:  nh
+xection:  nh
+50.884206
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250215.Pnp-lmh_mh40_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010106
+end of weight:  nh
+xection:  nh
+32.512825
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  40
+
+final_state name:  45
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250230.Pnp-lmh_mh45_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010220191
+end of weight:  nh
+xection:  nh
+48.644021
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250231.Pnp-lmh_mh45_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010180
+end of weight:  nh
+xection:  nh
+31.101628
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  45
+
+final_state name:  50
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250204.Pnp-lmh_mh50_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010035
+end of weight:  nh
+xection:  nh
+46.423539
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250205.Pnp-lmh_mh50_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010085
+end of weight:  nh
+xection:  nh
+29.688911
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  50
+
+final_state name:  55
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250232.Pnp-lmh_mh55_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010218
+end of weight:  nh
+xection:  nh
+44.468391
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250233.Pnp-lmh_mh55_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010074
+end of weight:  nh
+xection:  nh
+28.390571
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  55
+
+final_state name:  60
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250216.Pnp-lmh_mh60_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010251065
+end of weight:  nh
+xection:  nh
+42.498865
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250217.Pnp-lmh_mh60_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010278
+end of weight:  nh
+xection:  nh
+27.132858
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  60
+
+final_state name:  65
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250234.Pnp-lmh_mh65_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010186
+end of weight:  nh
+xection:  nh
+40.602315
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250235.Pnp-lmh_mh65_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010847463
+end of weight:  nh
+xection:  nh
+25.90591
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  65
+
+final_state name:  70
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250206.Pnp-lmh_mh70_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010010
+end of weight:  nh
+xection:  nh
+38.643644
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250207.Pnp-lmh_mh70_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010270
+end of weight:  nh
+xection:  nh
+24.685325
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  70
+
+final_state name:  75
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250236.Pnp-lmh_mh75_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010021
+end of weight:  nh
+xection:  nh
+36.783824
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250237.Pnp-lmh_mh75_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010423
+end of weight:  nh
+xection:  nh
+23.465433
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  75
+
+final_state name:  80
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250218.Pnp-lmh_mh80_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010089
+end of weight:  nh
+xection:  nh
+34.803076
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250219.Pnp-lmh_mh80_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010397
+end of weight:  nh
+xection:  nh
+22.268128
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  80
+
+final_state name:  85
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250238.Pnp-lmh_mh85_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010009936
+end of weight:  nh
+xection:  nh
+32.908665
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250239.Pnp-lmh_mh85_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010565
+end of weight:  nh
+xection:  nh
+21.013176
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  85
+
+final_state name:  90
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250208.Pnp-lmh_mh90_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010083
+end of weight:  nh
+xection:  nh
+30.982209
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250209.Pnp-lmh_mh90_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010136
+end of weight:  nh
+xection:  nh
+19.845094
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  90
+
+final_state name:  95
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250240.Pnp-lmh_mh95_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010365779
+end of weight:  nh
+xection:  nh
+29.157899
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250241.Pnp-lmh_mh95_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010232
+end of weight:  nh
+xection:  nh
+18.610022
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  95
+
+final_state name:  100
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250220.Pnp-lmh_mh100_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010156
+end of weight:  nh
+xection:  nh
+27.19459
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250221.Pnp-lmh_mh100_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010578
+end of weight:  nh
+xection:  nh
+17.353337
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  100
+
+final_state name:  105
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250242.Pnp-lmh_mh105_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010445
+end of weight:  nh
+xection:  nh
+25.206301
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250243.Pnp-lmh_mh105_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010894
+end of weight:  nh
+xection:  nh
+16.076494
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  105
+
+final_state name:  110
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250244.Pnp-lmh_mh110_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010137
+end of weight:  nh
+xection:  nh
+23.243537
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250245.Pnp-lmh_mh110_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010040
+end of weight:  nh
+xection:  nh
+14.813858
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  110
+
+final_state name:  115
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250210.Pnp-lmh_mh115_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010407
+end of weight:  nh
+xection:  nh
+21.27612
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250211.Pnp-lmh_mh115_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010100
+end of weight:  nh
+xection:  nh
+13.544666
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  115
+
+final_state name:  120
+
+pol:  lr
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250222.Pnp-lmh_mh120_e2e2h.eL.pR.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010205
+end of weight:  nh
+xection:  nh
+19.263639
+end of xection:  nh
+end of pol:  lr
+
+pol:  rl
+file:  nh
+/pnfs/desy.de/ilc/prod/ilc/mc-dbd/ild/dst-merged/250-TDR_ws/np-light-higgs/ILD_o1_v05/v01-16-p10_250/rv01-16-p10_250.sv01-14-01-p00.mILD_o1_v05.E250-TDR_ws.I250223.Pnp-lmh_mh120_e2e2h.eR.pL.d_dstm_8171_1.slcio
+end of file:  nh
+weight:  nh
+0.0010010527
+end of weight:  nh
+xection:  nh
+12.254887
+end of xection:  nh
+end of pol:  rl
+
+pol:  ll
+end of pol:  ll
+
+pol:  rr
+end of pol:  rr
+end of final_state:  120
+
+the class cross section is: 0
+end of class:  nh
+
+the total cross section is: 0

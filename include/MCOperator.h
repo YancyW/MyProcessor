@@ -87,4 +87,19 @@ float calCosTheta(TTheta  MC, TTheta  Ref){
 	return(TMath::Cos(angle));
 }
 
+template<typename TPhi>
+float calAzimuth(TPhi MC){
+	TLorentzVector vec =TLorentzVector(MC->getMomentum(),MC->getEnergy());
+	return(vec.Phi());
+}
+
+
+template<typename TPhi>
+float calAzimuth(TPhi MC, TPhi Ref){
+	TLorentzVector vec =TLorentzVector(MC->getMomentum(),MC->getEnergy());
+	TLorentzVector ref =TLorentzVector(Ref->getMomentum(),Ref->getEnergy());
+	return(vec.DeltaPhi(ref));
+}
+
+float calEnergy(ReconstructedParticle* RC);
 #endif

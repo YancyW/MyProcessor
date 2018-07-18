@@ -270,3 +270,7 @@ TVector3 calVect(MCParticleImpl* MC){
 	return(vec.Vect());
 }
 
+float calEnergy(ReconstructedParticle* RC){
+	TLorentzVector vec =TLorentzVector(RC->getMomentum(),RC->getEnergy());
+	return(vec.E());
+}

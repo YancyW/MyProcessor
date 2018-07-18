@@ -81,7 +81,7 @@ bool MyProcessor::obvRecoil(std::vector<TOBVRECOIL> in, std::vector<TOBVRECOIL> 
 	TLorentzVector collider;
 	TLorentzVector recoil_mom;
 	TLorentzVector pair_mom;
-	collider.SetPxPyPzE            (250*sin(0.014/2.0),0,0,250);
+	collider.SetPxPyPzE            (_cmenergy*sin(0.014/2.0),0,0,_cmenergy);
 
 	int choosei=1000,choosej=1000;
 	debug.Message(2,13,"in obvRecoil: begin loop for minimum chi, number of charge lepton is ",num);
@@ -108,25 +108,93 @@ bool MyProcessor::obvRecoil(std::vector<TOBVRECOIL> in, std::vector<TOBVRECOIL> 
 					sigma_pair  =2.06;
 					sigma_recoil=4.26;
 			}
+			else if(fabs(_hmass-15)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=3.70;
+			}
+			else if(fabs(_hmass-20)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=3.20;
+			}
+			else if(fabs(_hmass-25)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=2.7;
+			}
 			else if(fabs(_hmass-30)<0.00001){
 					sigma_pair  =2.05;
 					sigma_recoil=2.17;
+			}
+			else if(fabs(_hmass-35)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=2.07;
+			}
+			else if(fabs(_hmass-40)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.97;
+			}
+			else if(fabs(_hmass-45)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.87;
 			}
 			else if(fabs(_hmass-50)<0.00001){
 					sigma_pair  =2.05;
 					sigma_recoil=1.79;
 			}
+			else if(fabs(_hmass-55)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.72;
+			}
+			else if(fabs(_hmass-60)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.66;
+			}
+			else if(fabs(_hmass-65)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.61;
+			}
 			else if(fabs(_hmass-70)<0.00001){
 					sigma_pair  =2.06;
 					sigma_recoil=1.55;
+			}
+			else if(fabs(_hmass-75)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.52;
+			}
+			else if(fabs(_hmass-80)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.49;
+			}
+			else if(fabs(_hmass-85)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.46;
 			}
 			else if(fabs(_hmass-90)<0.00001){
 					sigma_pair  =2.07;
 					sigma_recoil=1.43;
 			}
-			else if(fabs(_hmass-115)<0.00001){
+			else if(fabs(_hmass-95)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.38;
+			}
+			else if(fabs(_hmass-100)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.33;
+			}
+			else if(fabs(_hmass-105)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.28;
+			}
+			else if(fabs(_hmass-110)<0.00001){
 					sigma_pair  =2.03;
+					sigma_recoil=1.24;
+			}
+			else if(fabs(_hmass-115)<0.00001){
+					sigma_pair  =2.05;
 					sigma_recoil=1.20;
+			}
+			else if(fabs(_hmass-120)<0.00001){
+					sigma_pair  =2.05;
+					sigma_recoil=1.13;
 			}
 			else if(fabs(_hmass-125)<0.00001){
 					sigma_pair  =2.03;

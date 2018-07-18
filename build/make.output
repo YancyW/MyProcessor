@@ -1,0 +1,7 @@
+[100%] Built target MyProcessor
+Install the project...
+-- Install configuration: "RelWithDebInfo"
+-- Installing: /afs/desy.de/user/y/ywang/Code/MyProcessor/lib/libMyProcessor.so.0.1.0
+-- Up-to-date: /afs/desy.de/user/y/ywang/Code/MyProcessor/lib/libMyProcessor.so.0.1
+-- Up-to-date: /afs/desy.de/user/y/ywang/Code/MyProcessor/lib/libMyProcessor.so
+-- Set runtime path of "/afs/desy.de/user/y/ywang/Code/MyProcessor/lib/libMyProcessor.so.0.1.0" to "/afs/desy.de/user/y/ywang/Code/MyProcessor/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/v02-00-01/Marlin/v01-16/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/v02-00-01/lcio/v02-12/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/v02-00-01/gear/v01-08/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/v02-00-01/CLHEP/2.3.4.3/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/ilcutil/v01-05/lib:/cvmfs/ilc.desy.de/sw/x86_64_gcc49_sl6/v02-00-01/root/6.08.06/lib:/afs/desy.de/user/y/ywang/Code/Tool_Set"

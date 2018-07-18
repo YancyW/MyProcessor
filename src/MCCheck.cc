@@ -113,7 +113,7 @@ MCParticle* MyProcessor::getVisible(std::vector<MCParticle*> in){
 
 MCParticle* MyProcessor::getInVisible(std::vector<MCParticle*> in){
 	MCParticle* visible = getVisible(in);
-	MCParticle* RCCollider=NewParticle(250*sin(0.014/2.0),0,0,250.0,in[0]);
+	MCParticle* RCCollider=NewParticle(_cmenergy*sin(0.014/2.0),0,0,_cmenergy,in[0]);
 
 	MCParticle* invisible= Minus(RCCollider,visible);
 	delete RCCollider;
@@ -125,25 +125,21 @@ MCParticle* MyProcessor::getInVisible(std::vector<MCParticle*> in){
 
 bool MyProcessor::MCCutDetail(std::vector<MCParticle*> &PFOsWithoutIsoleps, std::vector<MCParticle*> &Isoleps,std::vector<MCParticle*> &choosed_lep,  Variable &vari){
 
+	//  My observables
 	debug.Message(2,33,"in MCCutDetail : get visible_vec, size of pfo_wo_lep",PFOsWithoutIsoleps.size());
 	debug.Message(2,33,"in MCCutDetail : get visible_vec, size of lep",Isoleps.size());
 
 
-	MCParticle* Collider=NewParticle(250*sin(0.014/2.0),0,0,250,choosed_lep[0]);
+	MCParticle* Collider=NewParticle(_cmenergy*sin(0.014/2.0),0,0,_cmenergy,choosed_lep[0]);
 	MCParticle* pair    =Add(choosed_lep[0],choosed_lep[1]);
-	debug.Message(2,34,"in MCCutDetail: the choosed_lep are ",choosed_lep[0]);
-	debug.Message(2,34,"in MCCutDetail: the choosed_lep are ",choosed_lep[1]);
-	debug.Message(2,34,"in MCCutDetail: the pair are ",pair);
-	debug.Message(2,34,"in MCCutDetail: the Collider are ",Collider);
 	MCParticle* recoil;
 	recoil	=Minus(Collider,pair);
-	debug.Message(2,33,"in MCCutDetail: the recoil are ",recoil);
 
 	float zmass=pair->getMass();
 	debug.Message(2,33,"in MCCutDetail : get zmass",zmass);
 	vari.kcut_zmass=zmass;
 
-	float zpt=calPT(pair);
+	float zpt=ToolSet::CMC::Cal_PT(pair);
 	debug.Message(2,33,"in MCCutDetail : get zpt",zpt);
 	vari.kcut_zpt=zpt;
 
@@ -151,9 +147,7 @@ bool MyProcessor::MCCutDetail(std::vector<MCParticle*> &PFOsWithoutIsoleps, std:
 	std::vector<MCParticle*> visible_vec=PFOsWithoutIsoleps+Isoleps;
 	debug.Message(2,35,"in MCCutDetail : get visible_vec size",visible_vec.size());
 
-	debug.Message(2,35,"in MCCutDetail : visible_vec",visible_vec);
 	MCParticle* visible=getVisible(visible_vec);
-	debug.Message(2,35,"in MCCutDetail : get visible",visible);
 
 
 
@@ -163,27 +157,43 @@ bool MyProcessor::MCCutDetail(std::vector<MCParticle*> &PFOsWithoutIsoleps, std:
 	invisible_vec.push_back(choosed_lep[1]);
 	debug.Message(2,33,"in MCCutDetail : get invisible_vec size",invisible_vec.size());
 
-	debug.Message(2,33,"in MCCutDetail : get invisible_vec ",invisible_vec);
 
 	MCParticle* invisible=getInVisible(invisible_vec);
-	debug.Message(2,34,"in MCCutDetail : get invisible",invisible);
 
-	float invis_costheta=calCosTheta(invisible);
-	vari.kcut_invis_costheta=invis_costheta;
+	float invis_costheta=ToolSet::CMC::Cal_CosTheta(invisible);
+	float invis_e       =invisible->getEnergy();
+	if(invis_e>10){
+		vari.kcut_invis_costheta=invis_costheta;
+	}
+	vari.kcut_invis_e       =invis_e;
 	debug.Message(2,33,"in MCCutDetail : get invis_costheta",invis_costheta);
 
 
-	vari.lep_pair_costheta=calCosTheta(pair);
-	vari.lep_pair_costheta_pair=calCosTheta(choosed_lep[0],choosed_lep[1]);
+	vari.lep_pair_costheta     =ToolSet::CMC::Cal_CosTheta(pair);
+	vari.lep_pair_costheta_pair=ToolSet::CMC::Cal_CosTheta(choosed_lep[0],choosed_lep[1]);
+	vari.lep_pair_azimuth      =ToolSet::CMC::Cal_Azimuth (pair);
+	vari.lep_pair_azimuth_pair =ToolSet::CMC::Cal_Acoplanarity(choosed_lep[0],choosed_lep[1]);
 
 
 	if(choosed_lep[0]->getCharge()>0&&choosed_lep[1]->getCharge()<0){
-		vari.lep_pair_costheta_track1=calCosTheta(choosed_lep[0]);
-		vari.lep_pair_costheta_track2=calCosTheta(choosed_lep[1]);
+		vari.lep_pair_costheta_track1=ToolSet::CMC::Cal_CosTheta(choosed_lep[0]);
+		vari.lep_pair_costheta_track2=ToolSet::CMC::Cal_CosTheta(choosed_lep[1]);
+		vari.lep_pair_azimuth_track1 =ToolSet::CMC::Cal_Azimuth (choosed_lep[0]);
+		vari.lep_pair_azimuth_track2 =ToolSet::CMC::Cal_Azimuth (choosed_lep[1]);
+		vari.track1_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[0]);
+		vari.track2_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[1]);
+		vari.track1_e                =choosed_lep[0]->getEnergy();
+		vari.track2_e                =choosed_lep[1]->getEnergy();
 	}
 	else if(choosed_lep[0]->getCharge()<0&&choosed_lep[1]->getCharge()>0){
-		vari.lep_pair_costheta_track1=calCosTheta(choosed_lep[1]);
-		vari.lep_pair_costheta_track2=calCosTheta(choosed_lep[0]);
+		vari.lep_pair_costheta_track1=ToolSet::CMC::Cal_CosTheta(choosed_lep[1]);
+		vari.lep_pair_costheta_track2=ToolSet::CMC::Cal_CosTheta(choosed_lep[0]);
+		vari.lep_pair_azimuth_track1 =ToolSet::CMC::Cal_Azimuth (choosed_lep[1]);
+		vari.lep_pair_azimuth_track2 =ToolSet::CMC::Cal_Azimuth (choosed_lep[0]);
+		vari.track1_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[1]);
+		vari.track2_pt               =ToolSet::CMC::Cal_PT      (choosed_lep[0]);
+		vari.track1_e                =choosed_lep[1]->getEnergy();
+		vari.track2_e                =choosed_lep[0]->getEnergy();
 	}
 	else{
 		debug.Message(2,33,"in MCCutDetail : track1/2 wrong charge");
@@ -193,13 +203,22 @@ bool MyProcessor::MCCutDetail(std::vector<MCParticle*> &PFOsWithoutIsoleps, std:
 
 	float  recoil_mass=recoil->getMass();
 	vari.kcut_recoil_mass=recoil_mass;
-	debug.Message(2,34,"in MCCutDetail : get recoil",recoil);
 	debug.Message(2,34,"in MCCutDetail : get recoil_mass",recoil_mass);
 
 
 	float vis_e=visible->getEnergy();
 	vari.kcut_vis_e=vis_e;
 	debug.Message(2,33,"in MCCutDetail : get visible_energy",vis_e);
+
+	//  Opal's observables
+	vari.opal_lep_isolation1        =ToolSet::CMC::Cal_IsolationAngle(choosed_lep[0],PFOsWithoutIsoleps);
+	vari.opal_lep_isolation2        =ToolSet::CMC::Cal_IsolationAngle(choosed_lep[1],PFOsWithoutIsoleps);
+	vari.opal_zmass                 =zmass;
+	vari.opal_lep_pair_pz           =pair->getMomentum()[3];
+	vari.opal_invis_momentum        =ToolSet::CMC::Cal_P(invisible);
+	vari.opal_invis_costheta        =ToolSet::CMC::Cal_CosTheta(invisible);
+	vari.opal_lep_pair_acoplanarity =ToolSet::CMC::Cal_Acoplanarity(choosed_lep[0],choosed_lep[1]);
+
 
 	delete visible;
 	delete invisible;
@@ -213,8 +232,6 @@ bool MyProcessor::MCCutDetail(std::vector<MCParticle*> &PFOsWithoutIsoleps, std:
 
 bool MyProcessor::checkMCIsoLepCone(std::vector<MCParticle*> IsoLep, std::vector<MCParticle*> PFOs_WO_IsoLep, std::vector<MCParticle*> &NewIsoLep, std::vector<MCParticle*> &NewPFOs_WO_IsoLep, Infomation &info)
 {
-	debug.Message(2,34,"in checkMCIsoLepCone: IsoLep",IsoLep);
-	debug.Message(2,34,"in checkMCIsoLepCone: PFOsWithoutIsoleps",PFOs_WO_IsoLep);
 	float Mass;
 	int nlep = IsoLep.size();
 	NewPFOs_WO_IsoLep = PFOs_WO_IsoLep;
@@ -234,7 +251,6 @@ bool MyProcessor::checkMCIsoLepCone(std::vector<MCParticle*> IsoLep, std::vector
 		{
 			if (IsInLepCone( IsoLep[i], *it,info)) 
 			{
-				debug.Message(2,34,"in checkMCIsoLepCone: conbined photon",*it);
 				float Ppfo[3] = {(*it)->getMomentum()[0],(*it)->getMomentum()[1],(*it)->getMomentum()[2]};
 				float Epfo = (*it)->getEnergy();
 				Pnew[0] = Pnew[0] + Ppfo[0];
@@ -260,10 +276,9 @@ bool MyProcessor::checkMCIsoLepCone(std::vector<MCParticle*> IsoLep, std::vector
 		NewLep->setCharge  (charge);
 		NewIsoLep.push_back(dynamic_cast<MCParticle*> (NewLep));
 	}
-	debug.Message(2,34,"in checkMCIsoLepCone: NewIsoLep",NewIsoLep);
-	debug.Message(2,34,"in checkMCIsoLepCone: NewPFOsWithoutIsoleps",NewPFOs_WO_IsoLep);
 	return true;
 }
+
 
 bool MyProcessor::IsInLepCone( MCParticle* lep, MCParticle* pfo , Infomation &info) {
 	float coneE = 0;
@@ -282,5 +297,41 @@ bool MyProcessor::IsInLepCone( MCParticle* lep, MCParticle* pfo , Infomation &in
 		return true;
 	}
 	return false;
+}
+
+void MyProcessor::MCCutPhoton(std::vector<MCParticle*> &MCsPhoton,  Variable &vari){
+	int pnum_cen=0;
+	int pnum_for=0;
+	std::stable_sort(MCsPhoton.begin(),MCsPhoton.end(),ToolSet::CMC::Compare_as_E);
+	for(unsigned int i=0;i<MCsPhoton.size();i++){
+		float energy = MCsPhoton[i]->getEnergy();
+		float angle  = std::abs(ToolSet::CMC::Cal_CosTheta(MCsPhoton[i]));
+		if(angle<0.95){
+			pnum_cen++;
+			if(pnum_cen==1){
+				vari.photon_energy1 = MCsPhoton[i]->getEnergy();
+				vari.photon_costheta1 = ToolSet::CMC::Cal_CosTheta(MCsPhoton[i]);
+			}
+			else if(pnum_cen==2){
+				vari.photon_energy2 = MCsPhoton[i]->getEnergy();
+				vari.photon_costheta2 = ToolSet::CMC::Cal_CosTheta(MCsPhoton[i]);
+			}
+		}
+		else{
+			pnum_for ++;
+			if(pnum_for==1){
+				vari.forward_photon_energy1 = MCsPhoton[i]->getEnergy();
+				vari.forward_photon_costheta1 = ToolSet::CMC::Cal_CosTheta(MCsPhoton[i]);
+			}
+			else if(pnum_for==2){
+				vari.forward_photon_energy2 = MCsPhoton[i]->getEnergy();
+				vari.forward_photon_costheta2 = ToolSet::CMC::Cal_CosTheta(MCsPhoton[i]);
+			}
+		}
+
+	}
+	vari.photon_number = pnum_cen;
+	vari.forward_photon_number = pnum_for;
+	vari.total_photon_number = pnum_cen+pnum_for;
 }
 

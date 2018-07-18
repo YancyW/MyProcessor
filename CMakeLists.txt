@@ -35,6 +35,8 @@ ADD_DEFINITIONS( ${Marlin_DEFINITIONS} )
  FIND_PACKAGE( LCIO REQUIRED )
  INCLUDE_DIRECTORIES( ${LCIO_INCLUDE_DIRS} )
  LINK_LIBRARIES( ${LCIO_LIBRARIES} )
+ INCLUDE_DIRECTORIES( "/afs/desy.de/user/y/ywang/Code/Tool_Set/src" )
+ LINK_LIBRARIES     ( "/afs/desy.de/user/y/ywang/Code/Tool_Set/libtoolset.so" )
 # optional package
 #FIND_PACKAGE( AIDA )
 #IF( AIDA_FOUND )

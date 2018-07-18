@@ -18,7 +18,47 @@ class Counter{
 		float pass_Track  ;
 		float pass_all    ;
 
+
+		float pass_mc_num_false;
+		float pass_rc_num_false;
+		float pass_po_num_false;
+
+
+		float pass_mc_energy_false;
+		float pass_rc_energy_false;
+		float pass_po_energy_false;
+
+		float pass_mc_npfo ;
+		float pass_mc_nisl ;
+		float pass_pfo_nmc ;
+		float pass_pfo_nisl;
+		float pass_isl_nmc ;
+		float pass_isl_npfo;
+
 		void makeNTuple(TTree* _dataTree){
+		}
+		void init(){
+	        pass_MC  = 0;
+	        pass_RC  = 0;
+	        pass_PO  = 0;
+	        pass_all = 0;
+
+	        pass_mc_num_false = 0;
+	        pass_rc_num_false = 0;
+	        pass_po_num_false = 0;
+
+
+	        pass_mc_energy_false= 0;
+	        pass_rc_energy_false= 0;
+	        pass_po_energy_false= 0;
+
+
+            pass_mc_npfo  = 0;
+            pass_mc_nisl  = 0;
+            pass_pfo_nmc  = 0;
+            pass_pfo_nisl = 0;
+            pass_isl_nmc  = 0;
+            pass_isl_npfo = 0;
 		}
 };
 
@@ -29,26 +69,53 @@ class Variable{
 		//inserted by process file
 		//************************
 		float  pfo_num                    ;
+		float  higgs_channel              ;
 		float  kcut_zmass                 ;
 		float  kcut_zpt                   ;
 		float  kcut_invis_costheta        ;
+		float  kcut_invis_e               ;
 		float  kcut_mva                   ;
 		float  kcut_recoil_mass           ;
 		float  kcut_vis_e                 ;
 		float  lep_pair_costheta          ;
 		float  lep_pair_costheta_pair     ;
 		float  lep_pair_costheta_track1   ;        
+		float  lep_pair_costheta_track2   ;        
+		float  lep_pair_azimuth           ;
+		float  lep_pair_azimuth_pair      ;
+		float  lep_pair_azimuth_track1    ;        
+		float  lep_pair_azimuth_track2    ;        
 		float  track1_pt                  ;        
 		float  track1_e                   ;        
 		float  track2_pt                  ;        
 		float  track2_e                   ;        
-		float  lep_pair_costheta_track2   ;        
+		float  total_photon_number        ;        
+		float  photon_number              ;        
+		float  photon_energy1             ;        
+		float  photon_costheta1           ;        
+		float  photon_energy2             ;        
+		float  photon_costheta2           ;        
+		float  forward_photon_number      ;        
+		float  forward_photon_energy1     ;        
+		float  forward_photon_costheta1   ;        
+		float  forward_photon_energy2     ;        
+		float  forward_photon_costheta2   ;        
+		float  opal_lep_isolation1        ;        
+		float  opal_lep_isolation2        ;        
+		float  opal_zmass                 ;        
+		float  opal_lep_pair_pz           ;        
+		float  opal_invis_momentum        ;        
+		float  opal_invis_costheta        ;        
+		float  opal_lep_pair_acoplanarity ;        
+		float  opal_photon_number         ;        
 
 		void init(){
 			pfo_num                 =-10.1;
+			higgs_channel           =-10.1;
 			kcut_zmass              =-10.1;
 			kcut_zpt                =-10.1;
 			kcut_invis_costheta     =-10.1;
+			kcut_invis_e            =-10.1;
 			kcut_mva                =-10.1;
 			kcut_recoil_mass        =-10.1;
 			kcut_vis_e              =-10.1;
@@ -57,11 +124,38 @@ class Variable{
 			lep_pair_costheta_pair  =-10.1;
 			lep_pair_costheta_track1=-10.1;
 			lep_pair_costheta_track2=-10.1;
+			lep_pair_azimuth        =-10.1;
+			lep_pair_azimuth_pair   =-10.1;
+			lep_pair_azimuth_track1 =-10.1;
+			lep_pair_azimuth_track2 =-10.1;
 		    track1_pt               =-10.1;        
 		    track1_e                =-10.1;        
 		    track2_pt               =-10.1;        
 		    track2_e                =-10.1;        
+
+			total_photon_number     =-10.1;        
+			photon_number           =-10.1;        
+			photon_energy1          =-10.1;        
+			photon_costheta1        =-10.1;        
+			photon_energy2          =-10.1;        
+			photon_costheta2        =-10.1;        
+			forward_photon_number   =-10.1;        
+			forward_photon_energy1  =-10.1;        
+			forward_photon_costheta1=-10.1;        
+			forward_photon_energy2  =-10.1;        
+			forward_photon_costheta2=-10.1;        
+
+		    opal_lep_isolation1       = -10.1;       
+		    opal_lep_isolation2       = -10.1;       
+		    opal_zmass                = -10.1;       
+		    opal_lep_pair_pz          = -10.1;       
+		    opal_invis_momentum       = -10.1;       
+		    opal_invis_costheta       = -10.1;       
+		    opal_lep_pair_acoplanarity= -10.1;       
+		    opal_photon_number        = -10.1;       
 		}
+
+		void Fill_Data(TTree* tree, std::string prefix);
 };
 
 class Number{
@@ -76,29 +170,23 @@ class Number{
 		    num_minus          = -1       ;
 		}
 
+		void Fill_Data(TTree* tree, std::string prefix);
 };
 
 
 class Infomation{
 	public:
-		Variable                        data_muon_gen      ;
-		Variable                        data_muon          ;
-		Variable                        data_muon_recovery ;
-		Variable                        data_elec_gen      ;
-		Variable                        data_elec          ;
-		Variable                        data_elec_recovery ;
+		Variable                        data_muon_hs       ;
+		Variable                        data_muon_py_ex    ;
+		Variable                        data_muon_py_im    ;
+		Variable                        data_muon_de       ;
 
 		std::vector<float>              Lepton_cosTheta    ;
 
-		Number                          num_lep           ;
-		Number                          num_lep_gen       ;
-		Number                          num_lep_recovery  ;
-		Number                          num_muon           ;
-		Number                          num_muon_gen       ;
-		Number                          num_muon_recovery  ;
-		Number                          num_elec           ;
-		Number                          num_elec_gen       ;
-		Number                          num_elec_recovery  ;
+		Number                          num_muon_hs        ;
+		Number                          num_muon_py_ex     ;
+		Number                          num_muon_py_im     ;
+		Number                          num_muon_de        ;
 
 		CLEPTON_CUT                     cut                ;
 		CLEPTON<MCParticle*>            gen_lepton         ;
@@ -114,19 +202,15 @@ class Infomation{
 
 		void init(){
 			cut.Read_Cut();
-			data_muon.init();
-			data_muon_gen.init();
-			data_muon_recovery.init();
-			data_elec.init();
-			data_elec_gen.init();
-			data_elec_recovery.init();
+			data_muon_hs   .init();
+			data_muon_py_ex.init();
+			data_muon_py_im.init();
+			data_muon_de   .init();
 			Lepton_cosTheta.clear();
-			num_muon.init();
-			num_muon_gen.init();
-			num_muon_recovery.init();
-			num_elec.init();
-			num_elec_gen.init();
-			num_elec_recovery.init();
+			num_muon_hs    .init();
+			num_muon_py_ex .init();
+			num_muon_py_im .init();
+			num_muon_de    .init();
 		}
 
 
